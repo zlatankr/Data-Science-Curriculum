@@ -1,0 +1,4927 @@
+,Gender,Military,Ethnicity
+0,Male,N,White
+1,Female,N,American Indian/Alaska Native
+2,Male,N,Hispanic/Latino
+3,Male,N,Asian
+4,Female,N,White
+5,Male,N,White
+6,Female,N,White
+7,Female,N,American Indian/Alaska Native
+8,Female,N,White
+9,Female,N,Hispanic/Latino
+10,Female,Y,Black or African American
+11,Female,N,Hispanic/Latino
+12,Female,N,White
+13,Female,N,White
+14,Female,N,White
+15,Female,N,White
+16,Male,Y,White
+17,Male,N,White
+18,Male,N,Non Resident Alien
+19,Male,N,White
+20,Female,N,Hispanic/Latino
+21,Female,N,White
+22,Male,Y,White
+23,Female,N,White
+24,Male,N,White
+25,Female,Y,White
+26,Female,N,White
+27,Female,N,White
+28,Female,N,White
+29,Female,N,Asian
+30,Male,N,White
+31,Female,N,White
+32,Female,N,White
+33,Male,N,Black or African American
+34,Male,Y,White
+35,Male,Y,White
+36,Male,N,White
+37,Male,Y,Hispanic/Latino
+38,Female,N,White
+39,Female,N,White
+40,Male,Y,Black or African American
+41,Female,N,White
+42,Male,N,Hispanic/Latino
+43,Female,N,Black or African American
+44,Female,N,White
+45,Female,N,Asian
+46,Female,N,White
+47,Female,N,White
+48,Female,N,Black or African American
+49,Female,N,White
+50,Female,N,Hispanic/Latino
+51,Female,N,Non Resident Alien
+52,Male,N,White
+53,Male,N,Hispanic/Latino
+54,Male,N,Hispanic/Latino
+55,Male,N,White
+56,Female,N,White
+57,Female,N,White
+58,Male,N,White
+59,Female,N,White
+60,Female,N,White
+61,Female,N,White
+62,Female,N,White
+63,Female,N,Hispanic/Latino
+64,Male,N,White
+65,Male,N,White
+66,Male,N,American Indian/Alaska Native
+67,Female,N,White
+68,Female,N,White
+69,Male,N,Hispanic/Latino
+70,Male,Y,White
+71,Female,N,White
+72,Female,N,White
+73,Male,N,White
+74,Female,N,White
+75,Male,N,Black or African American
+76,Female,N,American Indian/Alaska Native
+77,Female,N,Not Available
+78,Female,N,White
+79,Female,N,White
+80,Female,N,Non Resident Alien
+81,Female,N,White
+82,Female,N,White
+83,Female,N,White
+84,Female,N,White
+85,Female,Y,White
+86,Female,N,White
+87,Female,N,White
+88,Female,N,White
+89,Female,N,Black or African American
+90,Female,N,White
+91,Female,N,Black or African American
+92,Male,N,Hispanic/Latino
+93,Female,N,Hispanic/Latino
+94,Female,N,White
+95,Male,N,White
+96,Male,N,Hispanic/Latino
+97,Male,N,White
+98,Female,N,White
+99,Female,N,Non Resident Alien
+100,Female,N,White
+101,Female,N,Non Resident Alien
+102,Female,N,White
+103,Female,N,White
+104,Female,N,White
+105,Female,N,Hispanic/Latino
+106,Female,N,White
+107,Female,N,White
+108,Female,N,White
+109,Male,N,White
+110,Male,Y,White
+111,Female,N,White
+112,Male,N,White
+113,Male,N,Black or African American
+114,Female,N,Hispanic/Latino
+115,Male,N,White
+116,Male,N,Hispanic/Latino
+117,Female,N,Hispanic/Latino
+118,Female,N,White
+119,Female,Y,American Indian/Alaska Native
+120,Female,N,Two or More Races
+121,Female,N,White
+122,Female,Y,Hispanic/Latino
+123,Female,N,White
+124,Female,N,White
+125,Female,N,White
+126,Female,N,American Indian/Alaska Native
+127,Female,N,Hispanic/Latino
+128,Male,N,White
+129,Female,N,Asian
+130,Female,N,White
+131,Male,N,White
+132,Male,N,White
+133,Male,N,Hispanic/Latino
+134,Female,N,American Indian/Alaska Native
+135,Female,N,Hispanic/Latino
+136,Female,N,Non Resident Alien
+137,Female,N,Black or African American
+138,Female,N,White
+139,Female,N,Hispanic/Latino
+140,Male,N,White
+141,Female,N,White
+142,Male,N,White
+143,Male,N,Black or African American
+144,Female,N,Two or More Races
+145,Female,N,White
+146,Female,N,Hispanic/Latino
+147,Female,N,White
+148,Female,N,Black or African American
+149,Female,N,White
+150,Female,N,Non Resident Alien
+151,Female,N,Hispanic/Latino
+152,Female,N,White
+153,Female,N,Hispanic/Latino
+154,Female,N,Non Resident Alien
+155,Female,N,Hispanic/Latino
+156,Female,N,Asian
+157,Female,N,Hispanic/Latino
+158,Male,Y,White
+159,Female,N,White
+160,Female,N,White
+161,Female,N,White
+162,Female,N,Hispanic/Latino
+163,Male,N,White
+164,Male,N,Black or African American
+165,Female,N,White
+166,Male,N,White
+167,Male,N,Hispanic/Latino
+168,Male,N,White
+169,Female,N,Black or African American
+170,Female,N,White
+171,Female,N,White
+172,Female,N,Black or African American
+173,Male,Y,White
+174,Male,N,White
+175,Female,N,White
+176,Male,N,White
+177,Male,Y,Black or African American
+178,Female,N,White
+179,Female,N,White
+180,Female,N,White
+181,Female,N,White
+182,Female,N,White
+183,Female,N,White
+184,Female,N,White
+185,Female,N,White
+186,Female,N,Black or African American
+187,Female,N,White
+188,Female,N,White
+189,Male,N,Asian
+190,Female,N,American Indian/Alaska Native
+191,Male,Y,White
+192,Female,N,White
+193,Female,N,White
+194,Female,N,White
+195,Female,N,White
+196,Female,N,White
+197,Female,N,White
+198,Female,N,Hispanic/Latino
+199,Male,N,White
+200,Female,N,Hispanic/Latino
+201,Female,N,White
+202,Female,N,White
+203,Female,N,Asian
+204,Female,N,American Indian/Alaska Native
+205,Female,N,Hispanic/Latino
+206,Female,N,White
+207,Female,N,White
+208,Male,N,White
+209,Female,N,White
+210,Female,N,Non Resident Alien
+211,Female,N,Hispanic/Latino
+212,Female,N,White
+213,Female,N,White
+214,Female,N,White
+215,Male,N,White
+216,Male,N,White
+217,Female,N,White
+218,Female,N,White
+219,Female,N,White
+220,Female,N,White
+221,Male,N,Black or African American
+222,Female,N,Hispanic/Latino
+223,Male,N,Hispanic/Latino
+224,Male,N,White
+225,Male,N,Hispanic/Latino
+226,Male,Y,Black or African American
+227,Male,N,Hispanic/Latino
+228,Female,N,Hispanic/Latino
+229,Female,Y,White
+230,Male,N,White
+231,Female,N,White
+232,Female,N,Hispanic/Latino
+233,Male,N,White
+234,Female,N,White
+235,Male,N,White
+236,Female,N,Hispanic/Latino
+237,Male,N,Hispanic/Latino
+238,Female,N,Hispanic/Latino
+239,Male,N,White
+240,Female,N,White
+241,Female,N,White
+242,Female,N,White
+243,Female,N,White
+244,Male,Y,White
+245,Male,N,White
+246,Female,N,White
+247,Female,N,White
+248,Female,N,White
+249,Female,N,Hispanic/Latino
+250,Female,N,White
+251,Female,N,Hispanic/Latino
+252,Female,N,Black or African American
+253,Female,N,White
+254,Female,N,Black or African American
+255,Male,N,White
+256,Male,N,Black or African American
+257,Female,N,White
+258,Female,N,White
+259,Female,N,Black or African American
+260,Male,N,White
+261,Male,N,White
+262,Female,N,White
+263,Female,N,White
+264,Male,N,White
+265,Female,N,Hispanic/Latino
+266,Male,N,Hispanic/Latino
+267,Male,N,White
+268,Female,N,Hispanic/Latino
+269,Male,N,White
+270,Male,N,White
+271,Male,N,Black or African American
+272,Female,N,White
+273,Female,N,White
+274,Male,N,White
+275,Male,N,White
+276,Male,N,White
+277,Female,N,Hispanic/Latino
+278,Female,N,Black or African American
+279,Female,N,White
+280,Male,Y,White
+281,Male,Y,White
+282,Female,N,White
+283,Female,N,White
+284,Male,N,White
+285,Female,N,White
+286,Female,N,White
+287,Female,N,Asian
+288,Female,N,White
+289,Female,N,Asian
+290,Male,N,White
+291,Female,N,Hispanic/Latino
+292,Female,N,Hispanic/Latino
+293,Female,N,White
+294,Male,Y,White
+295,Male,N,Hispanic/Latino
+296,Female,N,White
+297,Female,N,White
+298,Female,N,Black or African American
+299,Female,N,White
+300,Female,N,White
+301,Female,N,American Indian/Alaska Native
+302,Female,N,White
+303,Female,N,White
+304,Male,N,White
+305,Female,N,White
+306,Female,N,White
+307,Female,N,White
+308,Female,Y,White
+309,Male,N,White
+310,Male,N,Black or African American
+311,Male,Y,White
+312,Female,N,White
+313,Female,N,White
+314,Female,N,Hispanic/Latino
+315,Female,N,White
+316,Female,N,White
+317,Female,N,White
+318,Male,N,White
+319,Female,N,Non Resident Alien
+320,Male,N,Black or African American
+321,Female,N,White
+322,Male,Y,Hispanic/Latino
+323,Female,N,White
+324,Male,Y,Asian
+325,Female,N,Asian
+326,Female,N,White
+327,Female,N,White
+328,Female,N,Hispanic/Latino
+329,Female,Y,Hispanic/Latino
+330,Male,N,White
+331,Female,Y,White
+332,Female,N,Two or More Races
+333,Female,N,Hispanic/Latino
+334,Female,N,White
+335,Female,N,White
+336,Female,N,White
+337,Male,N,White
+338,Male,N,Asian
+339,Female,N,Black or African American
+340,Female,N,Hispanic/Latino
+341,Female,N,Two or More Races
+342,Female,N,White
+343,Female,N,White
+344,Male,N,White
+345,Female,N,Asian
+346,Female,N,White
+347,Female,N,Black or African American
+348,Female,N,Black or African American
+349,Female,N,Hispanic/Latino
+350,Male,Y,White
+351,Male,N,White
+352,Female,N,White
+353,Male,N,White
+354,Female,N,Black or African American
+355,Female,N,American Indian/Alaska Native
+356,Female,N,American Indian/Alaska Native
+357,Male,N,Hispanic/Latino
+358,Male,N,Hispanic/Latino
+359,Female,N,White
+360,Female,N,Non Resident Alien
+361,Female,N,White
+362,Female,N,White
+363,Female,N,White
+364,Female,N,Non Resident Alien
+365,Female,N,White
+366,Female,N,White
+367,Male,N,White
+368,Male,N,Hispanic/Latino
+369,Male,N,White
+370,Male,N,White
+371,Female,N,White
+372,Female,N,White
+373,Male,N,White
+374,Male,N,White
+375,Female,N,Hispanic/Latino
+376,Female,N,White
+377,Male,N,Hispanic/Latino
+378,Female,N,White
+379,Female,N,White
+380,Female,N,White
+381,Female,N,White
+382,Female,N,Hispanic/Latino
+383,Male,N,White
+384,Female,N,White
+385,Female,N,White
+386,Female,N,White
+387,Male,N,White
+388,Male,N,White
+389,Female,N,White
+390,Female,N,White
+391,Female,N,White
+392,Female,N,White
+393,Female,N,Hispanic/Latino
+394,Male,N,White
+395,Female,N,Hispanic/Latino
+396,Female,N,White
+397,Female,N,White
+398,Male,N,Hispanic/Latino
+399,Male,N,White
+400,Male,N,Asian
+401,Female,N,Hispanic/Latino
+402,Female,N,White
+403,Male,N,Hispanic/Latino
+404,Female,N,Black or African American
+405,Female,N,Hispanic/Latino
+406,Female,N,Native Hawaiian/Pacific Islander
+407,Female,N,White
+408,Female,N,White
+409,Female,N,White
+410,Male,N,Black or African American
+411,Female,N,White
+412,Female,N,American Indian/Alaska Native
+413,Female,N,White
+414,Female,Y,White
+415,Male,N,White
+416,Male,N,White
+417,Male,Y,White
+418,Female,N,White
+419,Male,N,White
+420,Female,N,White
+421,Female,N,Non Resident Alien
+422,Female,N,White
+423,Female,N,White
+424,Female,N,White
+425,Female,N,White
+426,Female,N,White
+427,Female,N,White
+428,Female,N,White
+429,Female,N,White
+430,Female,N,Hispanic/Latino
+431,Male,N,White
+432,Male,N,Hispanic/Latino
+433,Male,N,White
+434,Female,N,White
+435,Female,N,White
+436,Female,N,White
+437,Female,N,Hispanic/Latino
+438,Male,N,White
+439,Female,N,Hispanic/Latino
+440,Female,N,Hispanic/Latino
+441,Female,N,White
+442,Female,N,White
+443,Female,N,Black or African American
+444,Male,N,Hispanic/Latino
+445,Female,N,White
+446,Female,N,White
+447,Male,N,Hispanic/Latino
+448,Female,N,White
+449,Female,N,White
+450,Male,N,Asian
+451,Female,N,White
+452,Female,N,Asian
+453,Female,N,White
+454,Female,N,White
+455,Female,N,White
+456,Female,N,White
+457,Male,Y,White
+458,Female,N,White
+459,Female,N,Hispanic/Latino
+460,Female,N,Black or African American
+461,Female,N,White
+462,Female,N,Hispanic/Latino
+463,Female,N,White
+464,Female,N,White
+465,Female,N,White
+466,Female,N,White
+467,Female,N,White
+468,Female,N,White
+469,Female,N,White
+470,Female,N,Hispanic/Latino
+471,Female,Y,White
+472,Female,N,White
+473,Female,N,Non Resident Alien
+474,Female,N,Hispanic/Latino
+475,Female,N,Asian
+476,Female,N,White
+477,Female,N,Non Resident Alien
+478,Female,N,Hispanic/Latino
+479,Female,N,Asian
+480,Female,N,Hispanic/Latino
+481,Female,N,Black or African American
+482,Male,N,White
+483,Female,N,White
+484,Female,N,White
+485,Male,N,White
+486,Female,N,White
+487,Female,N,White
+488,Female,N,White
+489,Female,N,White
+490,Male,N,White
+491,Female,N,White
+492,Female,N,White
+493,Female,N,Hispanic/Latino
+494,Female,N,White
+495,Female,N,White
+496,Female,N,Asian
+497,Male,N,White
+498,Female,N,White
+499,Female,N,Non Resident Alien
+500,Male,N,White
+501,Female,N,White
+502,Female,N,Black or African American
+503,Male,N,White
+504,Female,N,White
+505,Female,N,White
+506,Male,N,White
+507,Male,N,White
+508,Male,N,Two or More Races
+509,Male,N,Hispanic/Latino
+510,Female,N,White
+511,Female,N,Hispanic/Latino
+512,Female,N,Asian
+513,Male,N,White
+514,Male,Y,Hispanic/Latino
+515,Female,N,White
+516,Female,N,White
+517,Male,Y,White
+518,Female,Y,White
+519,Female,N,White
+520,Male,N,Hispanic/Latino
+521,Male,N,Hispanic/Latino
+522,Male,N,Hispanic/Latino
+523,Female,N,White
+524,Female,N,White
+525,Female,N,White
+526,Female,N,White
+527,Male,N,White
+528,Male,N,Black or African American
+529,Female,N,White
+530,Female,N,White
+531,Female,N,White
+532,Female,N,Hispanic/Latino
+533,Female,N,White
+534,Female,N,White
+535,Female,N,Hispanic/Latino
+536,Male,N,Non Resident Alien
+537,Male,N,White
+538,Female,N,Hispanic/Latino
+539,Female,N,Hispanic/Latino
+540,Female,N,White
+541,Male,N,Black or African American
+542,Female,N,Black or African American
+543,Female,N,White
+544,Female,N,Black or African American
+545,Female,N,White
+546,Female,N,Hispanic/Latino
+547,Female,N,White
+548,Female,N,White
+549,Male,N,White
+550,Female,N,White
+551,Female,N,White
+552,Female,N,White
+553,Female,N,American Indian/Alaska Native
+554,Male,N,White
+555,Male,N,Hispanic/Latino
+556,Female,N,White
+557,Female,N,Asian
+558,Female,N,Hispanic/Latino
+559,Male,Y,White
+560,Female,N,Black or African American
+561,Female,N,White
+562,Male,Y,Black or African American
+563,Female,N,Hispanic/Latino
+564,Female,N,White
+565,Female,N,White
+566,Female,N,White
+567,Female,N,White
+568,Female,N,White
+569,Female,N,White
+570,Female,N,White
+571,Female,N,Hispanic/Latino
+572,Female,N,Two or More Races
+573,Male,N,White
+574,Male,N,Black or African American
+575,Male,N,White
+576,Male,N,White
+577,Male,N,Black or African American
+578,Female,N,White
+579,Male,N,White
+580,Female,N,White
+581,Male,N,Hispanic/Latino
+582,Female,N,White
+583,Female,N,Black or African American
+584,Female,N,White
+585,Female,N,White
+586,Female,N,Non Resident Alien
+587,Female,N,Black or African American
+588,Male,N,White
+589,Female,N,White
+590,Female,N,Two or More Races
+591,Male,N,Hispanic/Latino
+592,Female,N,Two or More Races
+593,Female,N,White
+594,Female,N,American Indian/Alaska Native
+595,Female,N,White
+596,Female,N,Two or More Races
+597,Female,N,White
+598,Female,N,White
+599,Female,N,Hispanic/Latino
+600,Female,N,White
+601,Female,N,White
+602,Female,N,White
+603,Male,N,White
+604,Female,N,White
+605,Female,N,White
+606,Female,N,White
+607,Female,N,White
+608,Female,N,White
+609,Female,N,Hispanic/Latino
+610,Female,N,Hispanic/Latino
+611,Female,N,White
+612,Female,N,White
+613,Female,N,Hispanic/Latino
+614,Female,N,Hispanic/Latino
+615,Female,N,White
+616,Female,N,White
+617,Female,N,Black or African American
+618,Female,N,Hispanic/Latino
+619,Female,N,White
+620,Female,N,White
+621,Female,Y,Hispanic/Latino
+622,Female,N,White
+623,Male,N,Two or More Races
+624,Female,N,White
+625,Female,N,Black or African American
+626,Male,N,Black or African American
+627,Female,N,White
+628,Female,N,White
+629,Male,Y,White
+630,Female,N,White
+631,Female,N,White
+632,Male,N,White
+633,Female,N,White
+634,Female,N,White
+635,Female,Y,White
+636,Female,Y,White
+637,Female,N,Hispanic/Latino
+638,Male,N,Two or More Races
+639,Female,N,Two or More Races
+640,Male,N,Hispanic/Latino
+641,Female,N,Non Resident Alien
+642,Male,N,White
+643,Male,N,Native Hawaiian/Pacific Islander
+644,Female,N,White
+645,Female,N,White
+646,Male,Y,White
+647,Female,N,Hispanic/Latino
+648,Female,N,White
+649,Female,N,Hispanic/Latino
+650,Female,N,White
+651,Female,N,White
+652,Female,N,American Indian/Alaska Native
+653,Female,N,White
+654,Female,N,White
+655,Female,N,White
+656,Female,N,White
+657,Female,N,White
+658,Female,N,Hispanic/Latino
+659,Female,N,White
+660,Male,N,White
+661,Female,N,White
+662,Female,N,White
+663,Male,N,White
+664,Female,N,White
+665,Male,N,White
+666,Female,N,White
+667,Female,N,White
+668,Female,N,White
+669,Female,N,White
+670,Female,N,Native Hawaiian/Pacific Islander
+671,Female,N,White
+672,Female,N,Non Resident Alien
+673,Male,N,White
+674,Female,N,Black or African American
+675,Male,N,White
+676,Female,N,White
+677,Male,N,White
+678,Male,Y,Not Available
+679,Female,N,White
+680,Male,N,White
+681,Female,N,Black or African American
+682,Male,N,White
+683,Female,N,White
+684,Male,Y,White
+685,Female,N,White
+686,Male,N,Black or African American
+687,Female,N,White
+688,Female,N,White
+689,Female,N,White
+690,Female,N,White
+691,Female,N,Hispanic/Latino
+692,Female,N,Hispanic/Latino
+693,Female,N,White
+694,Female,N,White
+695,Female,N,White
+696,Female,N,White
+697,Female,N,Non Resident Alien
+698,Female,N,White
+699,Female,N,White
+700,Female,N,White
+701,Male,N,White
+702,Female,N,Hispanic/Latino
+703,Female,N,Asian
+704,Female,N,White
+705,Female,N,White
+706,Female,N,Hispanic/Latino
+707,Female,N,White
+708,Female,N,White
+709,Female,N,Hispanic/Latino
+710,Female,N,Asian
+711,Female,N,White
+712,Female,N,White
+713,Female,N,Hispanic/Latino
+714,Female,N,Two or More Races
+715,Male,N,White
+716,Female,N,White
+717,Female,N,Asian
+718,Female,N,White
+719,Female,N,Black or African American
+720,Male,N,White
+721,Female,N,White
+722,Female,N,Non Resident Alien
+723,Female,Y,American Indian/Alaska Native
+724,Female,N,White
+725,Female,N,White
+726,Male,N,White
+727,Female,N,White
+728,Female,N,Hispanic/Latino
+729,Female,N,White
+730,Female,N,White
+731,Female,N,White
+732,Female,N,Hispanic/Latino
+733,Female,N,Hispanic/Latino
+734,Female,Y,White
+735,Female,N,White
+736,Female,N,Two or More Races
+737,Female,N,Black or African American
+738,Male,N,White
+739,Female,N,White
+740,Female,N,Black or African American
+741,Female,N,White
+742,Female,N,White
+743,Female,N,Hispanic/Latino
+744,Female,N,White
+745,Female,Y,Hispanic/Latino
+746,Male,N,White
+747,Male,N,Black or African American
+748,Male,N,White
+749,Female,N,White
+750,Female,N,White
+751,Female,N,White
+752,Male,N,White
+753,Female,N,White
+754,Female,Y,White
+755,Female,N,White
+756,Female,N,Hispanic/Latino
+757,Female,Y,American Indian/Alaska Native
+758,Female,N,Hispanic/Latino
+759,Female,N,White
+760,Female,N,White
+761,Female,N,White
+762,Female,N,Black or African American
+763,Female,Y,White
+764,Male,Y,Two or More Races
+765,Female,N,Hispanic/Latino
+766,Female,N,Hispanic/Latino
+767,Female,N,White
+768,Female,N,White
+769,Male,Y,White
+770,Female,N,Hispanic/Latino
+771,Female,N,Black or African American
+772,Male,Y,Black or African American
+773,Female,N,White
+774,Male,Y,White
+775,Female,N,Black or African American
+776,Male,Y,White
+777,Female,N,White
+778,Male,N,White
+779,Male,N,White
+780,Female,N,White
+781,Male,N,White
+782,Female,N,White
+783,Male,Y,White
+784,Male,N,White
+785,Male,N,White
+786,Female,N,White
+787,Male,N,Black or African American
+788,Female,N,White
+789,Male,N,White
+790,Female,N,White
+791,Female,N,White
+792,Female,N,White
+793,Female,N,White
+794,Female,N,White
+795,Male,N,White
+796,Male,N,Hispanic/Latino
+797,Female,Y,Not Available
+798,Female,N,Two or More Races
+799,Female,N,White
+800,Male,Y,White
+801,Female,Y,White
+802,Male,N,Hispanic/Latino
+803,Female,N,White
+804,Male,Y,White
+805,Male,N,Black or African American
+806,Female,N,White
+807,Female,N,White
+808,Female,N,White
+809,Female,N,White
+810,Female,N,White
+811,Female,N,White
+812,Female,N,Non Resident Alien
+813,Male,N,White
+814,Female,N,White
+815,Female,Y,White
+816,Female,N,Hispanic/Latino
+817,Female,N,Black or African American
+818,Male,Y,White
+819,Female,N,White
+820,Female,N,Non Resident Alien
+821,Female,N,Two or More Races
+822,Female,N,White
+823,Female,Y,White
+824,Male,N,Black or African American
+825,Female,N,Asian
+826,Female,N,Two or More Races
+827,Female,N,Black or African American
+828,Female,N,Hispanic/Latino
+829,Male,Y,White
+830,Female,N,Hispanic/Latino
+831,Female,N,White
+832,Female,N,White
+833,Female,N,White
+834,Female,N,Hispanic/Latino
+835,Male,N,White
+836,Female,N,Hispanic/Latino
+837,Female,Y,Black or African American
+838,Female,N,White
+839,Female,N,Two or More Races
+840,Female,N,Asian
+841,Female,N,White
+842,Female,N,American Indian/Alaska Native
+843,Female,N,White
+844,Female,N,White
+845,Female,N,Black or African American
+846,Female,N,Hispanic/Latino
+847,Female,N,White
+848,Female,N,Black or African American
+849,Male,N,White
+850,Female,N,White
+851,Female,N,
+852,Male,N,White
+853,Male,N,
+854,Female,N,
+855,Female,N,White
+856,Female,N,White
+857,Male,N,White
+858,Male,N,White
+859,Female,N,
+860,Female,N,
+861,Male,N,
+862,Female,N,White
+863,Female,N,Black or African American
+864,Female,N,Hispanic/Latino
+865,Female,N,White
+866,Male,Y,White
+867,Female,N,Hispanic/Latino
+868,Female,N,Asian
+869,Female,Y,White
+870,Male,N,White
+871,Female,N,
+872,Male,N,Black or African American
+873,Female,N,White
+874,Female,N,White
+875,Male,Y,White
+876,Female,N,White
+877,Female,N,White
+878,Male,N,White
+879,Female,N,White
+880,Female,N,White
+881,Male,N,White
+882,Female,N,White
+883,Female,N,White
+884,Male,Y,White
+885,Female,N,White
+886,Female,N,White
+887,Female,N,Hispanic/Latino
+888,Female,N,White
+889,Female,N,Hispanic/Latino
+890,Female,N,Hispanic/Latino
+891,Female,N,Non Resident Alien
+892,Female,N,Hispanic/Latino
+893,Male,N,Hispanic/Latino
+894,Male,N,White
+895,Male,Y,Hispanic/Latino
+896,Female,N,Not Available
+897,Female,N,Two or More Races
+898,Female,N,White
+899,Female,N,Asian
+900,Female,N,White
+901,Female,N,White
+902,Male,N,White
+903,Female,N,Asian
+904,Female,N,Asian
+905,Female,N,White
+906,Female,N,Hispanic/Latino
+907,Female,N,Hispanic/Latino
+908,Male,N,White
+909,Female,N,White
+910,Male,N,White
+911,Male,N,White
+912,Male,N,White
+913,Female,N,White
+914,Male,N,Asian
+915,Female,N,White
+916,Female,N,Black or African American
+917,Female,N,Hispanic/Latino
+918,Male,N,White
+919,Female,N,White
+920,Male,N,White
+921,Male,N,Hispanic/Latino
+922,Female,N,White
+923,Female,N,White
+924,Male,N,Asian
+925,Female,N,Black or African American
+926,Female,N,Black or African American
+927,Male,N,Not Available
+928,Female,N,White
+929,Female,N,White
+930,Female,N,White
+931,Female,N,White
+932,Female,Y,White
+933,Female,N,Not Available
+934,Female,N,White
+935,Male,N,Asian
+936,Female,N,White
+937,Female,N,Hispanic/Latino
+938,Male,N,American Indian/Alaska Native
+939,Female,N,White
+940,Female,N,Hispanic/Latino
+941,Female,N,White
+942,Male,Y,White
+943,Male,N,Hispanic/Latino
+944,Female,N,White
+945,Male,N,White
+946,Female,Y,Two or More Races
+947,Female,N,White
+948,Female,N,Hispanic/Latino
+949,Female,N,White
+950,Female,N,White
+951,Female,N,White
+952,Female,N,Hispanic/Latino
+953,Female,N,White
+954,Male,N,White
+955,Male,N,White
+956,Female,N,White
+957,Female,N,White
+958,Female,N,White
+959,Female,N,White
+960,Female,N,White
+961,Male,N,Black or African American
+962,Female,N,White
+963,Female,N,White
+964,Female,N,White
+965,Female,N,Black or African American
+966,Female,N,Black or African American
+967,Female,N,Black or African American
+968,Female,N,White
+969,Female,N,Hispanic/Latino
+970,Female,N,White
+971,Male,N,White
+972,Male,N,Hispanic/Latino
+973,Female,N,White
+974,Female,N,White
+975,Male,N,Hispanic/Latino
+976,Male,N,White
+977,Female,N,White
+978,Female,N,White
+979,Male,N,White
+980,Female,N,White
+981,Female,Y,White
+982,Female,Y,Two or More Races
+983,Female,N,White
+984,Female,N,Hispanic/Latino
+985,Female,N,White
+986,Female,N,Asian
+987,Female,N,Hispanic/Latino
+988,Female,N,Hispanic/Latino
+989,Female,N,American Indian/Alaska Native
+990,Male,N,White
+991,Female,N,White
+992,Female,N,White
+993,Female,N,Hispanic/Latino
+994,Male,N,Black or African American
+995,Male,Y,White
+996,Male,N,Hispanic/Latino
+997,Female,N,White
+998,Female,N,White
+999,Female,N,Asian
+1000,Male,N,Black or African American
+1001,Male,N,White
+1002,Male,N,White
+1003,Male,N,White
+1004,Male,N,Hispanic/Latino
+1005,Female,N,Hispanic/Latino
+1006,Female,N,White
+1007,Male,N,Not Available
+1008,Female,N,White
+1009,Male,N,White
+1010,Male,N,Hispanic/Latino
+1011,Female,N,White
+1012,Male,N,White
+1013,Female,N,Two or More Races
+1014,Male,N,White
+1015,Female,N,White
+1016,Male,N,White
+1017,Female,N,American Indian/Alaska Native
+1018,Female,N,Asian
+1019,Female,N,White
+1020,Female,N,Two or More Races
+1021,Female,N,White
+1022,Male,N,White
+1023,Female,N,White
+1024,Female,N,Asian
+1025,Female,N,White
+1026,Female,N,White
+1027,Female,N,Hispanic/Latino
+1028,Male,N,Black or African American
+1029,Female,N,Asian
+1030,Female,N,White
+1031,Female,N,Asian
+1032,Male,N,Hispanic/Latino
+1033,Female,N,White
+1034,Female,N,Not Available
+1035,Female,N,Hispanic/Latino
+1036,Female,N,Black or African American
+1037,Female,N,Hispanic/Latino
+1038,Female,N,White
+1039,Female,N,White
+1040,Female,N,Non Resident Alien
+1041,Female,N,Black or African American
+1042,Female,N,White
+1043,Female,N,
+1044,Male,N,White
+1045,Female,N,Black or African American
+1046,Male,N,Hispanic/Latino
+1047,Female,N,Black or African American
+1048,Male,N,White
+1049,Female,N,White
+1050,Female,N,White
+1051,Male,N,White
+1052,Female,N,White
+1053,Female,N,Two or More Races
+1054,Female,N,White
+1055,Female,N,White
+1056,Male,N,White
+1057,Female,N,White
+1058,Female,N,White
+1059,Female,N,White
+1060,Male,Y,Two or More Races
+1061,Female,N,Black or African American
+1062,Female,Y,Asian
+1063,Female,N,White
+1064,Female,N,White
+1065,Male,N,White
+1066,Male,N,White
+1067,Female,N,Hispanic/Latino
+1068,Female,N,White
+1069,Male,Y,White
+1070,Male,Y,White
+1071,Male,N,White
+1072,Female,Y,White
+1073,Female,N,White
+1074,Male,N,Black or African American
+1075,Female,N,White
+1076,Male,N,Hispanic/Latino
+1077,Female,N,Black or African American
+1078,Female,N,Hispanic/Latino
+1079,Female,N,White
+1080,Male,N,White
+1081,Female,N,White
+1082,Female,N,White
+1083,Male,Y,White
+1084,Male,Y,White
+1085,Female,N,White
+1086,Male,N,White
+1087,Female,N,White
+1088,Female,N,Hispanic/Latino
+1089,Female,N,White
+1090,Male,N,Hispanic/Latino
+1091,Male,N,White
+1092,Female,N,White
+1093,Female,N,White
+1094,Male,N,White
+1095,Female,N,American Indian/Alaska Native
+1096,Female,N,White
+1097,Male,N,White
+1098,Male,N,White
+1099,Male,N,White
+1100,Female,N,White
+1101,Female,N,White
+1102,Female,N,American Indian/Alaska Native
+1103,Female,N,White
+1104,Female,N,Non Resident Alien
+1105,Female,N,Black or African American
+1106,Female,Y,White
+1107,Male,N,White
+1108,Male,N,Hispanic/Latino
+1109,Male,Y,Hispanic/Latino
+1110,Female,N,White
+1111,Male,N,White
+1112,Female,N,White
+1113,Female,N,White
+1114,Female,N,White
+1115,Female,N,White
+1116,Female,N,White
+1117,Female,N,Black or African American
+1118,Female,N,White
+1119,Female,N,Hispanic/Latino
+1120,Female,N,White
+1121,Female,N,White
+1122,Female,N,White
+1123,Female,N,White
+1124,Male,Y,White
+1125,Female,N,White
+1126,Female,N,White
+1127,Male,N,Hispanic/Latino
+1128,Male,N,White
+1129,Female,N,White
+1130,Male,N,White
+1131,Female,N,White
+1132,Male,Y,White
+1133,Female,N,Black or African American
+1134,Female,N,Hispanic/Latino
+1135,Female,N,White
+1136,Female,N,White
+1137,Female,N,White
+1138,Male,N,Non Resident Alien
+1139,Female,N,White
+1140,Female,N,White
+1141,Female,N,Two or More Races
+1142,Female,N,White
+1143,Female,N,White
+1144,Male,N,White
+1145,Male,N,Hispanic/Latino
+1146,Female,N,Hispanic/Latino
+1147,Female,N,Black or African American
+1148,Female,N,White
+1149,Male,N,White
+1150,Female,N,American Indian/Alaska Native
+1151,Female,N,White
+1152,Female,N,White
+1153,Female,N,White
+1154,Female,N,White
+1155,Female,N,White
+1156,Female,N,White
+1157,Female,N,Black or African American
+1158,Female,N,White
+1159,Male,N,Hispanic/Latino
+1160,Female,N,Black or African American
+1161,Female,N,White
+1162,Female,N,Hispanic/Latino
+1163,Male,N,Black or African American
+1164,Female,N,Hispanic/Latino
+1165,Female,N,White
+1166,Female,N,Black or African American
+1167,Female,N,Hispanic/Latino
+1168,Male,N,Hispanic/Latino
+1169,Female,N,White
+1170,Male,N,Black or African American
+1171,Female,Y,White
+1172,Male,N,Black or African American
+1173,Female,N,White
+1174,Female,N,White
+1175,Male,N,White
+1176,Female,N,White
+1177,Male,N,Asian
+1178,Male,N,White
+1179,Male,Y,Two or More Races
+1180,Male,N,White
+1181,Male,N,White
+1182,Female,N,White
+1183,Male,Y,White
+1184,Male,N,White
+1185,Male,N,White
+1186,Female,N,White
+1187,Female,N,White
+1188,Male,N,White
+1189,Female,N,Hispanic/Latino
+1190,Female,N,White
+1191,Female,N,White
+1192,Male,N,White
+1193,Male,Y,White
+1194,Female,Y,White
+1195,Female,N,Asian
+1196,Female,N,Hispanic/Latino
+1197,Female,N,White
+1198,Female,Y,White
+1199,Female,N,Hispanic/Latino
+1200,Female,N,White
+1201,Female,N,Black or African American
+1202,Female,N,White
+1203,Female,N,White
+1204,Female,N,White
+1205,Male,N,White
+1206,Female,N,Non Resident Alien
+1207,Female,N,White
+1208,Male,N,White
+1209,Female,N,Non Resident Alien
+1210,Female,N,White
+1211,Female,N,White
+1212,Female,N,White
+1213,Female,N,White
+1214,Female,N,White
+1215,Female,N,Asian
+1216,Female,N,Hispanic/Latino
+1217,Female,N,Hispanic/Latino
+1218,Female,N,White
+1219,Female,N,Non Resident Alien
+1220,Female,N,Hispanic/Latino
+1221,Male,N,Hispanic/Latino
+1222,Male,N,White
+1223,Female,N,Hispanic/Latino
+1224,Female,N,White
+1225,Female,N,White
+1226,Female,N,Hispanic/Latino
+1227,Female,N,White
+1228,Female,N,Hispanic/Latino
+1229,Female,N,White
+1230,Female,N,White
+1231,Female,N,White
+1232,Female,N,Asian
+1233,Female,N,Hispanic/Latino
+1234,Male,N,Black or African American
+1235,Male,N,Hispanic/Latino
+1236,Female,N,Hispanic/Latino
+1237,Female,N,White
+1238,Female,N,White
+1239,Female,N,White
+1240,Female,N,White
+1241,Female,N,Non Resident Alien
+1242,Female,N,White
+1243,Female,Y,White
+1244,Female,N,Hispanic/Latino
+1245,Female,N,White
+1246,Female,N,White
+1247,Female,N,Non Resident Alien
+1248,Female,N,Hispanic/Latino
+1249,Male,N,White
+1250,Female,N,White
+1251,Female,N,Asian
+1252,Female,N,White
+1253,Male,Y,White
+1254,Male,N,White
+1255,Male,N,White
+1256,Female,N,White
+1257,Female,N,Hispanic/Latino
+1258,Female,N,White
+1259,Female,N,White
+1260,Female,N,Non Resident Alien
+1261,Female,N,Hispanic/Latino
+1262,Female,N,White
+1263,Female,N,Black or African American
+1264,Male,N,White
+1265,Female,N,White
+1266,Female,N,White
+1267,Female,N,White
+1268,Female,N,White
+1269,Female,N,Hispanic/Latino
+1270,Male,N,White
+1271,Female,N,White
+1272,Male,Y,Hispanic/Latino
+1273,Female,N,White
+1274,Male,Y,White
+1275,Female,Y,White
+1276,Female,N,White
+1277,Female,N,Hispanic/Latino
+1278,Male,N,White
+1279,Female,N,Hispanic/Latino
+1280,Male,N,White
+1281,Male,Y,White
+1282,Female,N,Black or African American
+1283,Male,N,Asian
+1284,Female,N,Hispanic/Latino
+1285,Female,N,White
+1286,Female,N,White
+1287,Female,N,White
+1288,Female,N,White
+1289,Female,N,Hispanic/Latino
+1290,Male,N,Hispanic/Latino
+1291,Male,N,White
+1292,Male,N,White
+1293,Female,N,Hispanic/Latino
+1294,Male,N,White
+1295,Female,N,White
+1296,Female,N,White
+1297,Female,N,White
+1298,Female,N,White
+1299,Female,N,White
+1300,Female,N,Hispanic/Latino
+1301,Female,N,Hispanic/Latino
+1302,Female,N,White
+1303,Female,N,White
+1304,Female,N,White
+1305,Female,N,White
+1306,Female,N,White
+1307,Male,N,White
+1308,Female,N,White
+1309,Female,N,White
+1310,Female,N,Non Resident Alien
+1311,Female,N,White
+1312,Male,N,Asian
+1313,Male,N,White
+1314,Female,N,Black or African American
+1315,Female,N,White
+1316,Female,N,Hispanic/Latino
+1317,Male,N,White
+1318,Female,N,White
+1319,Female,N,Hispanic/Latino
+1320,Female,N,White
+1321,Female,N,White
+1322,Female,N,White
+1323,Female,N,Native Hawaiian/Pacific Islander
+1324,Female,N,White
+1325,Female,N,Asian
+1326,Female,N,White
+1327,Female,N,White
+1328,Male,N,White
+1329,Male,N,White
+1330,Female,N,Black or African American
+1331,Female,N,Black or African American
+1332,Female,N,Asian
+1333,Female,N,Black or African American
+1334,Female,N,Black or African American
+1335,Female,N,White
+1336,Male,N,White
+1337,Female,N,Non Resident Alien
+1338,Female,N,White
+1339,Male,N,White
+1340,Male,N,Hispanic/Latino
+1341,Female,N,White
+1342,Female,N,White
+1343,Male,N,White
+1344,Female,N,White
+1345,Female,N,White
+1346,Male,N,White
+1347,Female,N,White
+1348,Male,N,White
+1349,Female,N,Black or African American
+1350,Male,N,Black or African American
+1351,Male,N,White
+1352,Male,Y,White
+1353,Female,N,White
+1354,Female,N,White
+1355,Male,N,White
+1356,Female,N,Black or African American
+1357,Female,Y,White
+1358,Female,N,White
+1359,Male,N,White
+1360,Male,Y,White
+1361,Male,N,Black or African American
+1362,Female,N,White
+1363,Male,Y,White
+1364,Female,N,White
+1365,Male,N,Hispanic/Latino
+1366,Female,N,White
+1367,Female,N,White
+1368,Female,N,Non Resident Alien
+1369,Male,N,Black or African American
+1370,Male,N,White
+1371,Female,N,White
+1372,Female,N,White
+1373,Male,N,Black or African American
+1374,Female,N,White
+1375,Male,N,Hispanic/Latino
+1376,Female,N,White
+1377,Female,N,White
+1378,Female,N,Hispanic/Latino
+1379,Male,N,White
+1380,Female,Y,Black or African American
+1381,Male,N,White
+1382,Male,N,Hispanic/Latino
+1383,Female,N,White
+1384,Female,N,White
+1385,Female,N,White
+1386,Female,N,Black or African American
+1387,Male,N,Black or African American
+1388,Female,N,White
+1389,Male,N,Black or African American
+1390,Female,N,Hispanic/Latino
+1391,Male,Y,White
+1392,Male,N,White
+1393,Male,N,Hispanic/Latino
+1394,Male,N,White
+1395,Female,N,White
+1396,Female,N,White
+1397,Female,N,White
+1398,Female,N,White
+1399,Female,N,White
+1400,Female,N,White
+1401,Male,N,White
+1402,Female,N,Non Resident Alien
+1403,Male,N,White
+1404,Female,N,White
+1405,Male,N,Not Available
+1406,Female,N,White
+1407,Female,N,White
+1408,Male,N,White
+1409,Female,N,White
+1410,Male,N,White
+1411,Female,N,White
+1412,Female,N,White
+1413,Female,N,White
+1414,Male,N,American Indian/Alaska Native
+1415,Male,N,White
+1416,Female,N,White
+1417,Female,N,Black or African American
+1418,Female,N,White
+1419,Male,N,White
+1420,Female,N,White
+1421,Male,N,Asian
+1422,Male,N,Black or African American
+1423,Female,N,White
+1424,Male,Y,White
+1425,Male,N,White
+1426,Female,N,White
+1427,Male,N,White
+1428,Female,N,White
+1429,Female,N,Asian
+1430,Male,N,Hispanic/Latino
+1431,Male,N,White
+1432,Female,N,White
+1433,Female,N,White
+1434,Female,N,White
+1435,Female,N,Black or African American
+1436,Female,N,White
+1437,Female,N,Non Resident Alien
+1438,Female,N,Non Resident Alien
+1439,Female,N,Non Resident Alien
+1440,Male,N,Non Resident Alien
+1441,Female,N,White
+1442,Female,N,White
+1443,Male,N,Asian
+1444,Female,N,White
+1445,Female,N,White
+1446,Female,N,White
+1447,Female,N,Hispanic/Latino
+1448,Male,N,White
+1449,Female,N,White
+1450,Male,N,White
+1451,Female,N,Black or African American
+1452,Female,N,White
+1453,Male,N,Black or African American
+1454,Female,N,Two or More Races
+1455,Male,N,White
+1456,Female,N,White
+1457,Female,N,White
+1458,Male,Y,White
+1459,Female,N,Non Resident Alien
+1460,Male,N,White
+1461,Female,N,White
+1462,Male,N,White
+1463,Female,N,Hispanic/Latino
+1464,Female,N,Hispanic/Latino
+1465,Female,N,White
+1466,Male,N,White
+1467,Female,N,Black or African American
+1468,Female,N,Black or African American
+1469,Female,N,White
+1470,Female,N,White
+1471,Female,N,White
+1472,Female,N,White
+1473,Female,N,White
+1474,Female,N,American Indian/Alaska Native
+1475,Male,N,Black or African American
+1476,Female,N,White
+1477,Female,N,Black or African American
+1478,Female,N,White
+1479,Female,N,White
+1480,Female,N,Non Resident Alien
+1481,Female,N,Hispanic/Latino
+1482,Female,N,White
+1483,Female,N,White
+1484,Female,N,Two or More Races
+1485,Female,N,White
+1486,Male,N,Black or African American
+1487,Female,Y,White
+1488,Female,N,White
+1489,Male,N,White
+1490,Female,N,Black or African American
+1491,Male,N,Two or More Races
+1492,Male,N,White
+1493,Female,N,White
+1494,Male,N,White
+1495,Male,N,White
+1496,Male,N,White
+1497,Female,N,Hispanic/Latino
+1498,Male,N,Hispanic/Latino
+1499,Female,N,White
+1500,Male,N,White
+1501,Male,Y,Hispanic/Latino
+1502,Male,Y,White
+1503,Female,N,Not Available
+1504,Female,N,White
+1505,Female,N,White
+1506,Female,N,Hispanic/Latino
+1507,Female,N,White
+1508,Female,N,White
+1509,Male,N,Hispanic/Latino
+1510,Female,N,Two or More Races
+1511,Female,N,White
+1512,Female,N,Two or More Races
+1513,Female,N,Two or More Races
+1514,Male,N,White
+1515,Female,N,Asian
+1516,Female,N,White
+1517,Female,N,Black or African American
+1518,Female,N,White
+1519,Female,N,White
+1520,Female,N,Black or African American
+1521,Female,N,White
+1522,Female,N,Hispanic/Latino
+1523,Female,N,Non Resident Alien
+1524,Female,N,White
+1525,Female,N,White
+1526,Female,N,White
+1527,Female,N,Hispanic/Latino
+1528,Female,N,White
+1529,Female,N,White
+1530,Female,N,White
+1531,Female,N,Asian
+1532,Female,N,White
+1533,Male,N,White
+1534,Female,N,White
+1535,Male,Y,White
+1536,Female,N,Non Resident Alien
+1537,Male,N,White
+1538,Female,N,Hispanic/Latino
+1539,Female,N,American Indian/Alaska Native
+1540,Female,N,White
+1541,Female,N,White
+1542,Male,N,Hispanic/Latino
+1543,Male,N,White
+1544,Female,N,Not Available
+1545,Female,N,White
+1546,Female,N,White
+1547,Female,N,White
+1548,Female,N,White
+1549,Female,N,White
+1550,Female,N,Asian
+1551,Female,N,White
+1552,Female,N,Asian
+1553,Female,N,Hispanic/Latino
+1554,Female,N,Hispanic/Latino
+1555,Male,N,Black or African American
+1556,Female,Y,White
+1557,Female,Y,American Indian/Alaska Native
+1558,Male,N,Black or African American
+1559,Female,N,Black or African American
+1560,Female,Y,White
+1561,Male,N,White
+1562,Female,N,White
+1563,Male,N,White
+1564,Male,N,White
+1565,Female,N,Hispanic/Latino
+1566,Female,N,White
+1567,Male,N,White
+1568,Female,N,White
+1569,Male,N,White
+1570,Female,N,Asian
+1571,Female,N,Hispanic/Latino
+1572,Female,Y,White
+1573,Female,N,Hispanic/Latino
+1574,Female,Y,Asian
+1575,Male,Y,White
+1576,Male,Y,Hispanic/Latino
+1577,Female,N,White
+1578,Male,N,White
+1579,Male,N,Black or African American
+1580,Female,N,Black or African American
+1581,Female,N,White
+1582,Male,Y,Hispanic/Latino
+1583,Male,N,White
+1584,Female,Y,Black or African American
+1585,Female,N,White
+1586,Male,N,White
+1587,Male,N,White
+1588,Male,N,Hispanic/Latino
+1589,Female,N,Hispanic/Latino
+1590,Male,N,White
+1591,Male,N,White
+1592,Female,Y,Hispanic/Latino
+1593,Male,N,Two or More Races
+1594,Female,N,White
+1595,Female,N,Black or African American
+1596,Female,N,White
+1597,Female,N,White
+1598,Female,N,White
+1599,Female,N,White
+1600,Female,N,Hispanic/Latino
+1601,Female,N,Non Resident Alien
+1602,Male,N,White
+1603,Female,N,Hispanic/Latino
+1604,Female,N,White
+1605,Female,N,Hispanic/Latino
+1606,Female,N,White
+1607,Male,N,White
+1608,Female,N,White
+1609,Female,N,White
+1610,Female,N,White
+1611,Female,N,White
+1612,Female,N,Hispanic/Latino
+1613,Female,N,White
+1614,Female,N,White
+1615,Female,N,White
+1616,Female,N,White
+1617,Male,N,Asian
+1618,Female,N,Black or African American
+1619,Female,N,Hispanic/Latino
+1620,Female,N,White
+1621,Female,N,Black or African American
+1622,Male,N,Asian
+1623,Female,N,Black or African American
+1624,Female,N,Asian
+1625,Female,N,White
+1626,Female,N,White
+1627,Female,N,Hispanic/Latino
+1628,Female,N,Hispanic/Latino
+1629,Female,N,Two or More Races
+1630,Female,N,Not Available
+1631,Female,N,Non Resident Alien
+1632,Female,N,White
+1633,Male,N,White
+1634,Male,Y,White
+1635,Female,N,Hispanic/Latino
+1636,Female,N,Hispanic/Latino
+1637,Female,N,American Indian/Alaska Native
+1638,Female,N,American Indian/Alaska Native
+1639,Female,N,Hispanic/Latino
+1640,Female,N,Hispanic/Latino
+1641,Female,N,White
+1642,Female,N,White
+1643,Female,N,Non Resident Alien
+1644,Female,N,Hispanic/Latino
+1645,Female,N,Black or African American
+1646,Female,Y,Hispanic/Latino
+1647,Male,N,White
+1648,Female,N,
+1649,Female,N,White
+1650,Female,N,Asian
+1651,Female,N,White
+1652,Male,N,White
+1653,Female,N,Black or African American
+1654,Male,Y,Black or African American
+1655,Female,N,White
+1656,Female,N,White
+1657,Male,N,Hispanic/Latino
+1658,Female,N,Hispanic/Latino
+1659,Male,N,White
+1660,Male,N,Hispanic/Latino
+1661,Male,N,White
+1662,Female,N,White
+1663,Male,N,Asian
+1664,Female,N,Hispanic/Latino
+1665,Female,N,White
+1666,Female,N,White
+1667,Female,N,White
+1668,Male,N,White
+1669,Male,N,White
+1670,Female,N,White
+1671,Male,N,Hispanic/Latino
+1672,Male,N,White
+1673,Male,N,White
+1674,Female,N,Two or More Races
+1675,Female,N,Black or African American
+1676,Female,N,Hispanic/Latino
+1677,Male,N,White
+1678,Female,N,White
+1679,Female,N,White
+1680,Male,Y,White
+1681,Female,N,White
+1682,Male,N,Hispanic/Latino
+1683,Male,N,White
+1684,Male,N,White
+1685,Male,Y,White
+1686,Male,N,White
+1687,Male,Y,Hispanic/Latino
+1688,Female,N,White
+1689,Male,Y,White
+1690,Female,N,White
+1691,Male,N,Hispanic/Latino
+1692,Male,Y,White
+1693,Female,N,White
+1694,Female,N,Black or African American
+1695,Male,Y,White
+1696,Female,N,White
+1697,Female,N,
+1698,Male,N,White
+1699,Female,N,Hispanic/Latino
+1700,Female,N,White
+1701,Female,Y,White
+1702,Male,Y,White
+1703,Female,N,White
+1704,Male,N,White
+1705,Female,N,Not Available
+1706,Male,N,White
+1707,Male,N,White
+1708,Female,N,White
+1709,Female,N,White
+1710,Female,N,Asian
+1711,Male,N,Black or African American
+1712,Female,N,White
+1713,Female,N,White
+1714,Female,N,Hispanic/Latino
+1715,Male,N,White
+1716,Male,N,White
+1717,Female,N,White
+1718,Male,Y,White
+1719,Female,N,Black or African American
+1720,Female,N,White
+1721,Female,N,Hispanic/Latino
+1722,Female,N,Asian
+1723,Female,N,White
+1724,Female,N,Hispanic/Latino
+1725,Male,N,Hispanic/Latino
+1726,Male,N,Black or African American
+1727,Female,N,White
+1728,Female,N,Black or African American
+1729,Female,N,White
+1730,Female,N,White
+1731,Female,N,Black or African American
+1732,Male,N,Hispanic/Latino
+1733,Male,N,White
+1734,Female,N,White
+1735,Female,N,Hispanic/Latino
+1736,Male,N,White
+1737,Male,N,White
+1738,Male,Y,Black or African American
+1739,Female,N,White
+1740,Male,N,White
+1741,Female,N,Asian
+1742,Female,N,White
+1743,Female,N,Hispanic/Latino
+1744,Male,Y,White
+1745,Female,N,White
+1746,Female,N,Asian
+1747,Female,N,White
+1748,Female,N,Asian
+1749,Female,N,White
+1750,Male,Y,Two or More Races
+1751,Male,N,White
+1752,Female,N,White
+1753,Male,N,White
+1754,Female,N,White
+1755,Female,N,White
+1756,Female,N,Black or African American
+1757,Female,N,White
+1758,Female,N,Black or African American
+1759,Female,N,White
+1760,Female,N,White
+1761,Female,N,Non Resident Alien
+1762,Female,N,White
+1763,Female,N,White
+1764,Female,N,White
+1765,Male,N,Non Resident Alien
+1766,Female,N,White
+1767,Female,N,White
+1768,Male,N,White
+1769,Male,N,White
+1770,Female,N,Black or African American
+1771,Female,N,White
+1772,Female,N,White
+1773,Male,N,White
+1774,Male,N,Two or More Races
+1775,Male,N,White
+1776,Male,N,Hispanic/Latino
+1777,Male,N,White
+1778,Female,N,Two or More Races
+1779,Female,N,Black or African American
+1780,Female,N,White
+1781,Female,N,Black or African American
+1782,Female,N,White
+1783,Female,N,White
+1784,Female,N,Hispanic/Latino
+1785,Female,N,White
+1786,Female,N,White
+1787,Female,N,Hispanic/Latino
+1788,Male,Y,White
+1789,Female,N,White
+1790,Female,Y,White
+1791,Female,N,Non Resident Alien
+1792,Female,N,White
+1793,Female,N,Non Resident Alien
+1794,Female,N,Hispanic/Latino
+1795,Female,N,Hispanic/Latino
+1796,Female,N,White
+1797,Female,N,White
+1798,Female,N,Hispanic/Latino
+1799,Male,N,White
+1800,Female,N,White
+1801,Female,N,White
+1802,Male,N,White
+1803,Female,N,Hispanic/Latino
+1804,Male,Y,White
+1805,Female,N,White
+1806,Female,N,White
+1807,Female,N,White
+1808,Male,N,White
+1809,Male,N,Hispanic/Latino
+1810,Male,N,White
+1811,Male,Y,White
+1812,Male,N,White
+1813,Female,N,White
+1814,Male,Y,White
+1815,Female,N,White
+1816,Female,N,White
+1817,Male,N,White
+1818,Female,N,White
+1819,Female,N,Not Available
+1820,Female,N,Asian
+1821,Female,Y,Hispanic/Latino
+1822,Female,N,White
+1823,Female,N,Asian
+1824,Female,N,Hispanic/Latino
+1825,Female,N,Hispanic/Latino
+1826,Female,N,White
+1827,Female,N,White
+1828,Female,N,White
+1829,Female,N,Not Available
+1830,Female,N,Hispanic/Latino
+1831,Female,N,Not Available
+1832,Female,N,Hispanic/Latino
+1833,Female,N,White
+1834,Female,N,Hispanic/Latino
+1835,Female,N,Hispanic/Latino
+1836,Female,N,Hispanic/Latino
+1837,Female,N,White
+1838,Male,N,Two or More Races
+1839,Female,N,White
+1840,Female,Y,White
+1841,Female,N,White
+1842,Female,N,White
+1843,Male,N,Hispanic/Latino
+1844,Female,N,White
+1845,Female,N,Not Available
+1846,Female,N,White
+1847,Female,N,Non Resident Alien
+1848,Female,N,Non Resident Alien
+1849,Female,N,White
+1850,Female,N,White
+1851,Female,N,White
+1852,Female,N,Two or More Races
+1853,Female,N,Hispanic/Latino
+1854,Male,N,Two or More Races
+1855,Male,N,White
+1856,Female,N,White
+1857,Female,N,White
+1858,Male,N,American Indian/Alaska Native
+1859,Male,Y,Black or African American
+1860,Female,N,White
+1861,Female,N,Hispanic/Latino
+1862,Female,N,White
+1863,Male,N,Not Available
+1864,Male,N,White
+1865,Female,N,Hispanic/Latino
+1866,Male,N,White
+1867,Female,Y,White
+1868,Female,N,White
+1869,Male,N,Black or African American
+1870,Male,Y,Hispanic/Latino
+1871,Female,N,White
+1872,Male,N,White
+1873,Female,Y,Hispanic/Latino
+1874,Male,N,White
+1875,Male,N,White
+1876,Female,N,White
+1877,Female,N,White
+1878,Female,Y,White
+1879,Female,N,White
+1880,Male,N,White
+1881,Female,N,Hispanic/Latino
+1882,Female,N,Hispanic/Latino
+1883,Male,N,Hispanic/Latino
+1884,Male,N,Black or African American
+1885,Male,Y,White
+1886,Male,N,White
+1887,Female,N,White
+1888,Female,N,White
+1889,Female,N,White
+1890,Female,N,Black or African American
+1891,Male,N,White
+1892,Male,N,White
+1893,Male,N,Black or African American
+1894,Female,N,Hispanic/Latino
+1895,Male,N,Black or African American
+1896,Male,N,White
+1897,Female,N,White
+1898,Female,N,Black or African American
+1899,Male,N,White
+1900,Male,N,Asian
+1901,Male,N,Two or More Races
+1902,Female,N,White
+1903,Male,N,White
+1904,Male,N,Hispanic/Latino
+1905,Female,N,White
+1906,Female,N,Hispanic/Latino
+1907,Male,Y,Black or African American
+1908,Female,N,White
+1909,Male,N,Two or More Races
+1910,Male,N,Hispanic/Latino
+1911,Female,N,White
+1912,Male,Y,White
+1913,Male,Y,Two or More Races
+1914,Male,N,White
+1915,Male,N,White
+1916,Female,N,White
+1917,Female,N,White
+1918,Female,N,White
+1919,Female,N,White
+1920,Female,N,White
+1921,Female,N,Black or African American
+1922,Female,N,White
+1923,Female,N,White
+1924,Female,N,White
+1925,Female,N,Asian
+1926,Female,Y,White
+1927,Male,N,White
+1928,Female,N,Asian
+1929,Female,N,White
+1930,Female,N,White
+1931,Female,N,White
+1932,Female,N,Two or More Races
+1933,Female,N,White
+1934,Female,N,White
+1935,Female,N,Asian
+1936,Female,N,White
+1937,Female,N,White
+1938,Female,N,White
+1939,Female,N,Black or African American
+1940,Female,N,White
+1941,Female,Y,Black or African American
+1942,Female,N,White
+1943,Female,N,Non Resident Alien
+1944,Female,N,White
+1945,Male,N,White
+1946,Female,N,White
+1947,Female,N,Not Available
+1948,Female,N,Asian
+1949,Male,N,White
+1950,Female,N,White
+1951,Female,N,White
+1952,Female,N,White
+1953,Female,N,White
+1954,Male,N,White
+1955,Male,N,White
+1956,Female,N,Black or African American
+1957,Male,Y,Not Available
+1958,Female,N,White
+1959,Female,N,Black or African American
+1960,Male,N,White
+1961,Male,N,American Indian/Alaska Native
+1962,Female,N,Black or African American
+1963,Female,N,White
+1964,Female,N,White
+1965,Male,N,White
+1966,Female,N,White
+1967,Male,N,Black or African American
+1968,Male,N,White
+1969,Female,N,Two or More Races
+1970,Male,Y,Hispanic/Latino
+1971,Female,N,White
+1972,Female,N,White
+1973,Female,N,Black or African American
+1974,Male,N,White
+1975,Female,N,White
+1976,Male,N,Black or African American
+1977,Male,N,Native Hawaiian/Pacific Islander
+1978,Male,N,Not Available
+1979,Female,N,White
+1980,Male,N,White
+1981,Male,N,White
+1982,Female,N,White
+1983,Male,N,White
+1984,Male,N,White
+1985,Female,N,White
+1986,Female,N,White
+1987,Female,N,Hispanic/Latino
+1988,Female,N,White
+1989,Female,N,White
+1990,Female,N,Hispanic/Latino
+1991,Female,N,White
+1992,Female,N,White
+1993,Female,N,Hispanic/Latino
+1994,Female,N,White
+1995,Male,N,Asian
+1996,Female,N,Hispanic/Latino
+1997,Female,N,White
+1998,Male,N,White
+1999,Female,N,White
+2000,Female,N,White
+2001,Female,N,Hispanic/Latino
+2002,Male,N,White
+2003,Female,N,Two or More Races
+2004,Male,N,White
+2005,Female,N,American Indian/Alaska Native
+2006,Female,N,White
+2007,Male,N,Hispanic/Latino
+2008,Female,N,White
+2009,Male,N,White
+2010,Female,N,White
+2011,Male,Y,White
+2012,Male,Y,White
+2013,Female,N,White
+2014,Female,N,White
+2015,Female,N,White
+2016,Female,N,Black or African American
+2017,Male,N,White
+2018,Male,N,White
+2019,Male,N,White
+2020,Male,Y,White
+2021,Female,N,White
+2022,Male,N,White
+2023,Male,Y,Asian
+2024,Female,N,White
+2025,Female,N,White
+2026,Female,N,White
+2027,Male,N,Hispanic/Latino
+2028,Male,N,White
+2029,Male,N,Hispanic/Latino
+2030,Male,N,White
+2031,Female,N,White
+2032,Female,N,Black or African American
+2033,Female,N,Asian
+2034,Female,Y,Black or African American
+2035,Male,N,White
+2036,Male,Y,White
+2037,Female,N,White
+2038,Male,N,Two or More Races
+2039,Female,N,White
+2040,Female,N,White
+2041,Male,N,Hispanic/Latino
+2042,Male,N,White
+2043,Female,N,White
+2044,Female,Y,White
+2045,Female,N,White
+2046,Female,N,Not Available
+2047,Male,N,Black or African American
+2048,Female,N,White
+2049,Female,N,White
+2050,Female,N,Non Resident Alien
+2051,Female,N,Hispanic/Latino
+2052,Female,N,White
+2053,Male,N,Hispanic/Latino
+2054,Male,N,White
+2055,Female,N,White
+2056,Female,N,White
+2057,Female,N,White
+2058,Female,N,White
+2059,Male,N,White
+2060,Male,N,Black or African American
+2061,Male,N,White
+2062,Male,N,White
+2063,Female,N,White
+2064,Female,N,White
+2065,Female,N,Hispanic/Latino
+2066,Male,N,White
+2067,Male,N,White
+2068,Female,N,White
+2069,Male,N,White
+2070,Male,N,Black or African American
+2071,Male,Y,Hispanic/Latino
+2072,Male,N,White
+2073,Female,N,Two or More Races
+2074,Female,N,Hispanic/Latino
+2075,Female,N,White
+2076,Male,Y,Hispanic/Latino
+2077,Female,N,Asian
+2078,Female,N,Hispanic/Latino
+2079,Male,Y,Two or More Races
+2080,Male,N,White
+2081,Male,N,Non Resident Alien
+2082,Female,N,White
+2083,Male,N,White
+2084,Male,N,White
+2085,Female,N,White
+2086,Female,N,White
+2087,Male,Y,White
+2088,Male,N,Black or African American
+2089,Male,N,White
+2090,Female,N,White
+2091,Female,N,Hispanic/Latino
+2092,Male,N,White
+2093,Female,N,White
+2094,Female,N,White
+2095,Female,N,White
+2096,Male,N,White
+2097,Female,N,White
+2098,Male,N,Asian
+2099,Female,N,White
+2100,Female,N,White
+2101,Female,N,Asian
+2102,Female,N,Hispanic/Latino
+2103,Female,N,White
+2104,Female,N,White
+2105,Female,N,Asian
+2106,Female,N,White
+2107,Female,N,White
+2108,Female,N,White
+2109,Female,N,Hispanic/Latino
+2110,Female,N,White
+2111,Female,N,White
+2112,Female,N,White
+2113,Female,N,White
+2114,Female,N,White
+2115,Female,N,Hispanic/Latino
+2116,Female,N,White
+2117,Female,N,Black or African American
+2118,Female,N,White
+2119,Female,N,White
+2120,Female,Y,Native Hawaiian/Pacific Islander
+2121,Male,N,Asian
+2122,Female,N,White
+2123,Female,N,White
+2124,Female,N,White
+2125,Female,N,White
+2126,Female,N,White
+2127,Female,N,White
+2128,Female,N,White
+2129,Female,N,White
+2130,Female,N,White
+2131,Female,N,White
+2132,Female,N,White
+2133,Female,N,White
+2134,Female,N,White
+2135,Female,N,White
+2136,Female,N,Hispanic/Latino
+2137,Female,N,Hispanic/Latino
+2138,Female,N,Non Resident Alien
+2139,Female,N,White
+2140,Female,N,White
+2141,Female,N,White
+2142,Female,N,White
+2143,Female,N,White
+2144,Female,N,White
+2145,Female,N,Two or More Races
+2146,Female,N,Non Resident Alien
+2147,Female,N,White
+2148,Male,N,Not Available
+2149,Male,N,Non Resident Alien
+2150,Female,N,Hispanic/Latino
+2151,Male,N,Hispanic/Latino
+2152,Male,N,White
+2153,Male,N,White
+2154,Male,Y,White
+2155,Female,N,White
+2156,Female,N,White
+2157,Male,N,Two or More Races
+2158,Female,N,White
+2159,Female,N,White
+2160,Female,N,White
+2161,Female,N,Native Hawaiian/Pacific Islander
+2162,Male,N,White
+2163,Female,N,White
+2164,Female,N,Black or African American
+2165,Male,N,White
+2166,Male,N,White
+2167,Female,N,Two or More Races
+2168,Female,N,White
+2169,Male,N,White
+2170,Female,N,White
+2171,Female,N,White
+2172,Female,N,White
+2173,Female,N,White
+2174,Female,N,White
+2175,Male,N,White
+2176,Female,N,Black or African American
+2177,Female,N,White
+2178,Female,N,White
+2179,Female,N,White
+2180,Female,N,White
+2181,Female,N,Hispanic/Latino
+2182,Female,N,White
+2183,Female,N,Hispanic/Latino
+2184,Male,N,White
+2185,Female,N,Black or African American
+2186,Male,N,White
+2187,Female,Y,American Indian/Alaska Native
+2188,Female,N,White
+2189,Female,N,White
+2190,Male,N,White
+2191,Female,N,White
+2192,Female,N,Black or African American
+2193,Male,Y,White
+2194,Female,N,White
+2195,Female,N,Asian
+2196,Male,N,White
+2197,Male,Y,White
+2198,Female,N,Hispanic/Latino
+2199,Male,Y,White
+2200,Female,N,White
+2201,Female,N,Hispanic/Latino
+2202,Male,Y,Black or African American
+2203,Male,Y,White
+2204,Female,N,Two or More Races
+2205,Female,N,Black or African American
+2206,Female,N,White
+2207,Male,N,Hispanic/Latino
+2208,Female,N,Two or More Races
+2209,Female,N,White
+2210,Female,N,Hispanic/Latino
+2211,Female,N,Black or African American
+2212,Male,Y,White
+2213,Female,N,White
+2214,Male,N,Hispanic/Latino
+2215,Male,N,White
+2216,Male,N,White
+2217,Male,N,White
+2218,Male,Y,Black or African American
+2219,Female,N,White
+2220,Female,N,White
+2221,Female,N,White
+2222,Male,N,White
+2223,Female,N,White
+2224,Female,N,Hispanic/Latino
+2225,Female,N,Hispanic/Latino
+2226,Female,N,White
+2227,Female,N,White
+2228,Male,N,American Indian/Alaska Native
+2229,Female,N,White
+2230,Female,N,White
+2231,Female,N,Two or More Races
+2232,Female,N,Hispanic/Latino
+2233,Female,N,White
+2234,Female,N,White
+2235,Female,N,Hispanic/Latino
+2236,Female,N,White
+2237,Female,N,White
+2238,Female,N,White
+2239,Male,N,Hispanic/Latino
+2240,Female,N,Black or African American
+2241,Female,N,White
+2242,Female,N,White
+2243,Male,N,White
+2244,Female,N,Black or African American
+2245,Female,N,White
+2246,Female,N,Hispanic/Latino
+2247,Female,N,White
+2248,Female,Y,White
+2249,Female,N,White
+2250,Female,N,Hispanic/Latino
+2251,Female,N,White
+2252,Female,N,White
+2253,Female,N,Hispanic/Latino
+2254,Female,N,Two or More Races
+2255,Female,N,White
+2256,Female,N,White
+2257,Female,N,White
+2258,Male,N,Hispanic/Latino
+2259,Female,N,White
+2260,Male,N,Two or More Races
+2261,Male,N,Hispanic/Latino
+2262,Female,N,White
+2263,Male,N,White
+2264,Female,N,White
+2265,Male,N,White
+2266,Male,N,Hispanic/Latino
+2267,Female,N,Non Resident Alien
+2268,Female,N,White
+2269,Female,N,Hispanic/Latino
+2270,Female,N,White
+2271,Male,N,White
+2272,Female,N,White
+2273,Male,N,Hispanic/Latino
+2274,Female,N,White
+2275,Female,N,White
+2276,Female,N,White
+2277,Female,N,White
+2278,Male,N,White
+2279,Female,N,Black or African American
+2280,Female,N,White
+2281,Male,N,White
+2282,Female,N,White
+2283,Female,N,Two or More Races
+2284,Female,N,Two or More Races
+2285,Male,Y,Black or African American
+2286,Female,N,Hispanic/Latino
+2287,Female,N,White
+2288,Male,Y,Native Hawaiian/Pacific Islander
+2289,Female,N,White
+2290,Male,N,Black or African American
+2291,Male,N,Two or More Races
+2292,Female,N,Non Resident Alien
+2293,Male,N,Black or African American
+2294,Male,N,White
+2295,Male,N,Asian
+2296,Male,N,White
+2297,Female,N,White
+2298,Male,N,Black or African American
+2299,Male,N,White
+2300,Female,N,White
+2301,Male,N,Hispanic/Latino
+2302,Male,N,White
+2303,Female,N,Hispanic/Latino
+2304,Female,N,American Indian/Alaska Native
+2305,Female,N,White
+2306,Female,N,Black or African American
+2307,Female,N,White
+2308,Female,N,White
+2309,Female,N,White
+2310,Male,N,White
+2311,Male,N,White
+2312,Male,N,White
+2313,Male,N,White
+2314,Female,N,White
+2315,Male,N,Two or More Races
+2316,Male,N,Black or African American
+2317,Female,N,Black or African American
+2318,Female,N,White
+2319,Female,N,White
+2320,Male,Y,White
+2321,Male,Y,White
+2322,Male,N,White
+2323,Male,N,White
+2324,Female,N,Hispanic/Latino
+2325,Female,N,White
+2326,Female,N,White
+2327,Female,N,American Indian/Alaska Native
+2328,Female,N,White
+2329,Female,N,White
+2330,Female,N,Asian
+2331,Female,N,White
+2332,Female,N,White
+2333,Female,N,Non Resident Alien
+2334,Female,Y,Two or More Races
+2335,Female,N,Native Hawaiian/Pacific Islander
+2336,Female,N,Hispanic/Latino
+2337,Female,N,Hispanic/Latino
+2338,Male,N,White
+2339,Female,Y,Hispanic/Latino
+2340,Male,N,White
+2341,Female,N,White
+2342,Male,Y,Asian
+2343,Male,N,Black or African American
+2344,Male,N,White
+2345,Male,N,White
+2346,Male,N,Hispanic/Latino
+2347,Female,N,Asian
+2348,Female,N,White
+2349,Female,N,White
+2350,Male,N,White
+2351,Female,N,White
+2352,Female,N,White
+2353,Male,N,White
+2354,Female,N,Two or More Races
+2355,Female,N,White
+2356,Female,N,White
+2357,Female,N,Hispanic/Latino
+2358,Female,N,Two or More Races
+2359,Female,N,White
+2360,Female,N,Asian
+2361,Female,N,Asian
+2362,Male,N,White
+2363,Female,N,White
+2364,Female,N,Black or African American
+2365,Female,N,Asian
+2366,Female,N,Black or African American
+2367,Male,N,White
+2368,Female,N,White
+2369,Female,N,White
+2370,Female,N,Two or More Races
+2371,Male,Y,Black or African American
+2372,Female,N,White
+2373,Female,N,White
+2374,Female,N,White
+2375,Male,N,White
+2376,Female,N,Black or African American
+2377,Female,N,White
+2378,Male,N,Non Resident Alien
+2379,Female,N,White
+2380,Male,N,White
+2381,Male,N,White
+2382,Female,N,White
+2383,Female,N,White
+2384,Male,N,Hispanic/Latino
+2385,Male,N,Two or More Races
+2386,Female,N,Asian
+2387,Female,N,White
+2388,Male,N,White
+2389,Female,N,White
+2390,Male,Y,Hispanic/Latino
+2391,Male,N,Hispanic/Latino
+2392,Male,N,White
+2393,Male,N,White
+2394,Female,N,Hispanic/Latino
+2395,Female,N,White
+2396,Female,N,Hispanic/Latino
+2397,Male,N,White
+2398,Male,N,Black or African American
+2399,Male,Y,White
+2400,Female,N,White
+2401,Male,N,White
+2402,Male,N,White
+2403,Male,N,White
+2404,Male,N,White
+2405,Male,N,White
+2406,Male,N,Hispanic/Latino
+2407,Female,N,White
+2408,Female,Y,White
+2409,Female,N,Black or African American
+2410,Female,N,Hispanic/Latino
+2411,Female,N,White
+2412,Female,N,White
+2413,Male,N,White
+2414,Female,N,Two or More Races
+2415,Female,N,White
+2416,Female,N,White
+2417,Female,N,White
+2418,Female,N,Hispanic/Latino
+2419,Female,N,White
+2420,Female,N,Black or African American
+2421,Male,N,Hispanic/Latino
+2422,Female,N,White
+2423,Male,Y,Asian
+2424,Male,N,American Indian/Alaska Native
+2425,Male,N,White
+2426,Male,N,Hispanic/Latino
+2427,Female,N,White
+2428,Female,N,Hispanic/Latino
+2429,Female,N,Asian
+2430,Male,N,White
+2431,Male,N,White
+2432,Male,Y,White
+2433,Female,N,White
+2434,Female,N,White
+2435,Male,N,White
+2436,Female,N,White
+2437,Male,N,White
+2438,Female,N,White
+2439,Male,N,White
+2440,Female,N,White
+2441,Male,N,Hispanic/Latino
+2442,Female,N,White
+2443,Male,N,White
+2444,Male,N,White
+2445,Male,N,White
+2446,Female,N,White
+2447,Female,N,White
+2448,Female,N,White
+2449,Female,N,White
+2450,Female,N,White
+2451,Female,N,Black or African American
+2452,Female,N,Black or African American
+2453,Female,N,White
+2454,Female,N,Two or More Races
+2455,Male,N,White
+2456,Female,N,White
+2457,Female,N,White
+2458,Female,N,Two or More Races
+2459,Female,N,White
+2460,Female,N,White
+2461,Female,N,Non Resident Alien
+2462,Female,N,Non Resident Alien
+2463,Female,N,White
+2464,Male,N,White
+2465,Male,Y,Black or African American
+2466,Male,N,Asian
+2467,Female,N,Hispanic/Latino
+2468,Female,N,Hispanic/Latino
+2469,Female,N,Black or African American
+2470,Female,N,White
+2471,Female,N,White
+2472,Female,N,White
+2473,Male,N,White
+2474,Female,N,Hispanic/Latino
+2475,Female,N,White
+2476,Female,N,Hispanic/Latino
+2477,Female,N,White
+2478,Female,N,White
+2479,Female,N,White
+2480,Male,N,White
+2481,Female,N,Hispanic/Latino
+2482,Female,N,Asian
+2483,Female,N,White
+2484,Female,N,White
+2485,Female,Y,White
+2486,Male,N,Black or African American
+2487,Female,N,White
+2488,Female,N,White
+2489,Female,N,Hispanic/Latino
+2490,Female,N,Hispanic/Latino
+2491,Female,N,White
+2492,Female,N,Black or African American
+2493,Female,N,Non Resident Alien
+2494,Male,N,White
+2495,Female,N,White
+2496,Female,N,White
+2497,Female,N,Asian
+2498,Male,N,Black or African American
+2499,Female,N,Hispanic/Latino
+2500,Female,N,Black or African American
+2501,Female,N,White
+2502,Female,N,White
+2503,Female,N,White
+2504,Male,N,White
+2505,Male,Y,Two or More Races
+2506,Male,N,Hispanic/Latino
+2507,Female,N,White
+2508,Female,N,Non Resident Alien
+2509,Male,N,White
+2510,Female,N,White
+2511,Female,N,Asian
+2512,Female,N,White
+2513,Female,N,Hispanic/Latino
+2514,Male,N,White
+2515,Female,N,Asian
+2516,Male,N,White
+2517,Male,Y,White
+2518,Female,N,White
+2519,Female,N,White
+2520,Male,N,Hispanic/Latino
+2521,Female,N,Two or More Races
+2522,Female,N,Hispanic/Latino
+2523,Female,N,Black or African American
+2524,Male,N,White
+2525,Male,N,White
+2526,Male,N,American Indian/Alaska Native
+2527,Female,N,White
+2528,Male,Y,White
+2529,Male,N,White
+2530,Female,N,White
+2531,Male,Y,Black or African American
+2532,Male,N,Hispanic/Latino
+2533,Male,N,White
+2534,Female,Y,White
+2535,Female,N,White
+2536,Female,N,Hispanic/Latino
+2537,Male,N,Black or African American
+2538,Male,N,White
+2539,Female,N,White
+2540,Female,N,Black or African American
+2541,Female,N,White
+2542,Female,N,White
+2543,Male,N,White
+2544,Female,N,Hispanic/Latino
+2545,Male,Y,White
+2546,Male,Y,White
+2547,Female,N,Hispanic/Latino
+2548,Female,N,White
+2549,Female,N,White
+2550,Female,N,White
+2551,Male,N,Two or More Races
+2552,Male,N,Hispanic/Latino
+2553,Female,N,White
+2554,Female,N,White
+2555,Female,N,Black or African American
+2556,Male,N,Hispanic/Latino
+2557,Male,N,Hispanic/Latino
+2558,Male,Y,Black or African American
+2559,Female,N,Hispanic/Latino
+2560,Female,N,Two or More Races
+2561,Male,N,Black or African American
+2562,Male,N,White
+2563,Male,N,White
+2564,Male,N,White
+2565,Female,N,Asian
+2566,Female,Y,White
+2567,Female,N,Two or More Races
+2568,Female,N,Black or African American
+2569,Male,N,White
+2570,Male,Y,Black or African American
+2571,Male,N,White
+2572,Male,N,White
+2573,Female,N,White
+2574,Female,N,White
+2575,Female,N,Black or African American
+2576,Female,N,White
+2577,Male,Y,Black or African American
+2578,Female,N,White
+2579,Male,Y,White
+2580,Female,N,White
+2581,Male,N,Hispanic/Latino
+2582,Female,N,White
+2583,Female,N,White
+2584,Female,N,White
+2585,Female,N,Hispanic/Latino
+2586,Female,N,White
+2587,Female,N,White
+2588,Male,Y,White
+2589,Male,Y,White
+2590,Female,N,Hispanic/Latino
+2591,Male,N,Black or African American
+2592,Female,N,Hispanic/Latino
+2593,Male,N,White
+2594,Male,N,White
+2595,Female,N,White
+2596,Male,Y,Black or African American
+2597,Male,Y,Black or African American
+2598,Female,N,White
+2599,Female,N,White
+2600,Female,N,White
+2601,Female,Y,White
+2602,Female,N,White
+2603,Female,N,Hispanic/Latino
+2604,Male,Y,Black or African American
+2605,Male,N,White
+2606,Male,Y,White
+2607,Female,N,White
+2608,Female,N,White
+2609,Female,N,White
+2610,Female,N,White
+2611,Female,N,White
+2612,Female,N,Two or More Races
+2613,Female,N,White
+2614,Female,N,White
+2615,Female,N,White
+2616,Female,N,White
+2617,Female,N,White
+2618,Female,N,White
+2619,Male,N,Hispanic/Latino
+2620,Female,N,Asian
+2621,Male,Y,White
+2622,Male,N,Hispanic/Latino
+2623,Female,N,White
+2624,Male,N,White
+2625,Female,N,White
+2626,Female,N,White
+2627,Female,N,White
+2628,Female,N,White
+2629,Male,Y,Hispanic/Latino
+2630,Female,N,Black or African American
+2631,Male,N,White
+2632,Male,N,Non Resident Alien
+2633,Female,N,White
+2634,Male,N,White
+2635,Male,N,
+2636,Female,N,White
+2637,Female,N,Hispanic/Latino
+2638,Female,N,White
+2639,Female,N,Hispanic/Latino
+2640,Male,N,White
+2641,Female,N,White
+2642,Female,N,Hispanic/Latino
+2643,Female,N,Hispanic/Latino
+2644,Female,N,Black or African American
+2645,Female,N,White
+2646,Female,N,Two or More Races
+2647,Female,N,Hispanic/Latino
+2648,Female,N,White
+2649,Female,N,Black or African American
+2650,Female,N,Black or African American
+2651,Female,N,White
+2652,Female,Y,White
+2653,Male,N,White
+2654,Male,N,White
+2655,Male,N,White
+2656,Female,N,White
+2657,Female,N,Hispanic/Latino
+2658,Male,N,White
+2659,Male,N,Hispanic/Latino
+2660,Female,N,Black or African American
+2661,Female,N,Black or African American
+2662,Male,N,White
+2663,Female,N,White
+2664,Male,N,Black or African American
+2665,Female,N,White
+2666,Male,Y,Black or African American
+2667,Female,N,White
+2668,Female,N,White
+2669,Female,N,Black or African American
+2670,Male,N,White
+2671,Female,Y,Hispanic/Latino
+2672,Female,N,White
+2673,Female,N,Non Resident Alien
+2674,Male,N,Asian
+2675,Female,N,White
+2676,Male,Y,Hispanic/Latino
+2677,Male,N,Black or African American
+2678,Female,N,White
+2679,Male,N,White
+2680,Female,N,White
+2681,Female,N,Non Resident Alien
+2682,Male,N,Non Resident Alien
+2683,Male,N,White
+2684,Female,N,White
+2685,Female,N,White
+2686,Female,N,Black or African American
+2687,Female,N,Hispanic/Latino
+2688,Female,N,White
+2689,Male,N,White
+2690,Male,N,White
+2691,Female,N,White
+2692,Female,N,White
+2693,Male,Y,White
+2694,Female,N,Hispanic/Latino
+2695,Female,N,White
+2696,Female,N,Two or More Races
+2697,Female,N,White
+2698,Female,N,Black or African American
+2699,Female,N,Two or More Races
+2700,Female,N,Hispanic/Latino
+2701,Female,N,White
+2702,Male,N,White
+2703,Female,N,White
+2704,Female,N,Black or African American
+2705,Male,N,White
+2706,Female,N,White
+2707,Female,N,White
+2708,Male,N,White
+2709,Female,N,Hispanic/Latino
+2710,Female,N,White
+2711,Female,N,White
+2712,Male,N,White
+2713,Female,N,Hispanic/Latino
+2714,Female,N,White
+2715,Female,N,White
+2716,Female,N,Two or More Races
+2717,Male,N,White
+2718,Male,N,White
+2719,Male,N,Black or African American
+2720,Male,N,Asian
+2721,Female,Y,Black or African American
+2722,Male,N,White
+2723,Male,N,Black or African American
+2724,Female,Y,Black or African American
+2725,Female,N,White
+2726,Female,N,Black or African American
+2727,Female,N,Hispanic/Latino
+2728,Male,N,White
+2729,Female,N,White
+2730,Male,N,White
+2731,Female,N,White
+2732,Male,N,White
+2733,Female,N,White
+2734,Male,N,White
+2735,Female,N,White
+2736,Male,N,White
+2737,Male,N,White
+2738,Female,N,Hispanic/Latino
+2739,Male,N,White
+2740,Female,N,White
+2741,Male,N,White
+2742,Female,Y,Black or African American
+2743,Female,N,White
+2744,Female,N,Hispanic/Latino
+2745,Female,Y,White
+2746,Female,N,Hispanic/Latino
+2747,Female,N,Hispanic/Latino
+2748,Female,N,White
+2749,Female,N,White
+2750,Male,N,White
+2751,Female,N,Asian
+2752,Female,N,Asian
+2753,Female,N,Asian
+2754,Male,N,White
+2755,Female,N,White
+2756,Female,N,White
+2757,Female,Y,White
+2758,Male,N,White
+2759,Female,N,Hispanic/Latino
+2760,Female,N,Hispanic/Latino
+2761,Female,N,White
+2762,Female,N,White
+2763,Male,Y,Black or African American
+2764,Male,N,White
+2765,Female,N,White
+2766,Female,N,American Indian/Alaska Native
+2767,Female,N,White
+2768,Male,N,Non Resident Alien
+2769,Male,N,White
+2770,Male,N,White
+2771,Female,N,Black or African American
+2772,Female,N,White
+2773,Male,N,Black or African American
+2774,Female,N,Black or African American
+2775,Male,N,White
+2776,Female,N,Hispanic/Latino
+2777,Female,N,White
+2778,Female,N,White
+2779,Female,N,White
+2780,Female,N,White
+2781,Female,N,White
+2782,Female,Y,Black or African American
+2783,Female,N,White
+2784,Male,N,White
+2785,Female,N,Hispanic/Latino
+2786,Female,N,White
+2787,Female,N,White
+2788,Female,N,Hispanic/Latino
+2789,Female,Y,White
+2790,Female,N,Black or African American
+2791,Female,N,White
+2792,Male,N,White
+2793,Female,N,White
+2794,Male,N,Black or African American
+2795,Female,N,Hispanic/Latino
+2796,Female,N,White
+2797,Female,N,Black or African American
+2798,Male,N,White
+2799,Female,N,Hispanic/Latino
+2800,Female,N,White
+2801,Male,N,White
+2802,Female,N,American Indian/Alaska Native
+2803,Male,Y,White
+2804,Male,N,Black or African American
+2805,Male,N,Hispanic/Latino
+2806,Female,N,Hispanic/Latino
+2807,Female,N,White
+2808,Female,N,White
+2809,Female,N,Two or More Races
+2810,Male,N,White
+2811,Male,N,Black or African American
+2812,Male,N,Two or More Races
+2813,Male,N,Black or African American
+2814,Female,N,Not Available
+2815,Male,N,White
+2816,Female,N,Black or African American
+2817,Male,N,White
+2818,Male,Y,White
+2819,Male,N,White
+2820,Male,Y,White
+2821,Female,N,Hispanic/Latino
+2822,Male,N,White
+2823,Male,N,White
+2824,Male,N,Black or African American
+2825,Female,N,White
+2826,Female,N,American Indian/Alaska Native
+2827,Female,Y,White
+2828,Female,N,White
+2829,Female,N,Black or African American
+2830,Female,N,Black or African American
+2831,Male,Y,Hispanic/Latino
+2832,Female,N,White
+2833,Female,N,White
+2834,Female,N,White
+2835,Male,N,White
+2836,Male,N,White
+2837,Female,N,White
+2838,Female,N,White
+2839,Female,N,White
+2840,Male,N,White
+2841,Female,N,White
+2842,Female,N,Hispanic/Latino
+2843,Female,N,White
+2844,Female,N,Black or African American
+2845,Female,N,Black or African American
+2846,Male,N,White
+2847,Male,N,White
+2848,Male,Y,White
+2849,Female,N,Black or African American
+2850,Male,N,White
+2851,Male,Y,Hispanic/Latino
+2852,Male,N,White
+2853,Male,N,White
+2854,Female,N,White
+2855,Female,N,White
+2856,Female,N,Hispanic/Latino
+2857,Female,N,Hispanic/Latino
+2858,Male,N,White
+2859,Female,N,White
+2860,Male,N,White
+2861,Female,N,White
+2862,Female,N,Two or More Races
+2863,Female,N,Black or African American
+2864,Female,N,White
+2865,Female,N,Black or African American
+2866,Male,N,Black or African American
+2867,Female,N,Two or More Races
+2868,Male,N,White
+2869,Female,N,White
+2870,Female,N,White
+2871,Female,N,White
+2872,Female,N,White
+2873,Female,N,White
+2874,Female,N,Hispanic/Latino
+2875,Female,N,Hispanic/Latino
+2876,Male,N,American Indian/Alaska Native
+2877,Female,N,Non Resident Alien
+2878,Male,N,Hispanic/Latino
+2879,Male,N,White
+2880,Female,N,White
+2881,Female,N,White
+2882,Female,N,White
+2883,Female,N,White
+2884,Female,N,White
+2885,Male,Y,White
+2886,Male,N,White
+2887,Female,N,White
+2888,Female,N,Non Resident Alien
+2889,Female,N,White
+2890,Female,N,White
+2891,Female,N,White
+2892,Female,N,White
+2893,Female,N,White
+2894,Female,N,Black or African American
+2895,Female,N,White
+2896,Female,N,Hispanic/Latino
+2897,Female,N,White
+2898,Female,N,White
+2899,Female,N,Black or African American
+2900,Female,N,Hispanic/Latino
+2901,Female,N,White
+2902,Female,N,American Indian/Alaska Native
+2903,Female,N,White
+2904,Female,N,Non Resident Alien
+2905,Female,N,White
+2906,Female,N,Black or African American
+2907,Female,N,White
+2908,Female,N,White
+2909,Male,N,Black or African American
+2910,Female,N,Two or More Races
+2911,Female,N,White
+2912,Female,N,White
+2913,Female,N,White
+2914,Female,N,White
+2915,Female,N,White
+2916,Female,N,White
+2917,Female,N,White
+2918,Female,N,Black or African American
+2919,Female,N,White
+2920,Female,N,Black or African American
+2921,Female,N,White
+2922,Female,N,White
+2923,Male,N,Hispanic/Latino
+2924,Female,N,White
+2925,Female,N,Asian
+2926,Female,N,Asian
+2927,Female,N,Hispanic/Latino
+2928,Female,N,White
+2929,Female,N,White
+2930,Male,N,White
+2931,Female,N,White
+2932,Female,N,Hispanic/Latino
+2933,Female,N,Asian
+2934,Female,N,Non Resident Alien
+2935,Male,N,Asian
+2936,Female,N,Asian
+2937,Female,N,Two or More Races
+2938,Male,N,White
+2939,Female,N,Black or African American
+2940,Male,N,White
+2941,Female,N,White
+2942,Male,N,Asian
+2943,Female,N,White
+2944,Female,N,White
+2945,Male,N,White
+2946,Male,Y,White
+2947,Female,N,White
+2948,Male,N,Hispanic/Latino
+2949,Female,N,Non Resident Alien
+2950,Female,N,White
+2951,Female,N,White
+2952,Male,N,White
+2953,Male,N,White
+2954,Male,N,White
+2955,Male,Y,American Indian/Alaska Native
+2956,Male,N,White
+2957,Female,N,White
+2958,Female,N,Black or African American
+2959,Female,N,White
+2960,Male,N,Non Resident Alien
+2961,Male,Y,White
+2962,Female,N,White
+2963,Female,N,White
+2964,Female,N,White
+2965,Female,N,Black or African American
+2966,Female,N,White
+2967,Male,Y,White
+2968,Female,N,Hispanic/Latino
+2969,Female,N,Black or African American
+2970,Female,N,White
+2971,Male,N,Black or African American
+2972,Female,N,Black or African American
+2973,Female,N,White
+2974,Female,N,White
+2975,Male,N,White
+2976,Female,N,White
+2977,Female,N,Two or More Races
+2978,Male,N,Two or More Races
+2979,Male,N,Hispanic/Latino
+2980,Female,N,White
+2981,Male,N,White
+2982,Male,N,White
+2983,Male,N,Black or African American
+2984,Male,Y,White
+2985,Male,N,White
+2986,Female,N,White
+2987,Female,N,Black or African American
+2988,Male,N,Two or More Races
+2989,Female,N,White
+2990,Female,N,Hispanic/Latino
+2991,Female,N,Hispanic/Latino
+2992,Female,N,White
+2993,Female,N,White
+2994,Male,N,Black or African American
+2995,Female,N,White
+2996,Female,N,White
+2997,Female,N,White
+2998,Female,N,White
+2999,Female,Y,White
+3000,Male,N,Black or African American
+3001,Female,N,Hispanic/Latino
+3002,Female,N,White
+3003,Female,Y,White
+3004,Female,N,White
+3005,Female,N,Hispanic/Latino
+3006,Male,N,Black or African American
+3007,Female,Y,White
+3008,Male,N,Hispanic/Latino
+3009,Female,N,Hispanic/Latino
+3010,Female,N,White
+3011,Male,Y,White
+3012,Male,N,White
+3013,Female,N,White
+3014,Male,Y,White
+3015,Female,Y,White
+3016,Female,N,White
+3017,Female,N,Non Resident Alien
+3018,Female,N,Black or African American
+3019,Female,N,Hispanic/Latino
+3020,Female,N,Hispanic/Latino
+3021,Female,N,White
+3022,Female,N,White
+3023,Female,N,White
+3024,Male,N,White
+3025,Female,N,White
+3026,Female,N,Non Resident Alien
+3027,Female,N,Hispanic/Latino
+3028,Female,N,White
+3029,Female,N,Hispanic/Latino
+3030,Female,Y,Hispanic/Latino
+3031,Male,N,White
+3032,Female,N,White
+3033,Female,N,American Indian/Alaska Native
+3034,Female,N,White
+3035,Female,N,White
+3036,Female,N,White
+3037,Male,N,White
+3038,Female,N,Asian
+3039,Female,N,Asian
+3040,Female,N,
+3041,Female,N,White
+3042,Female,N,White
+3043,Male,N,White
+3044,Female,N,White
+3045,Female,N,White
+3046,Female,Y,White
+3047,Male,N,Hispanic/Latino
+3048,Male,N,Black or African American
+3049,Male,Y,White
+3050,Female,N,White
+3051,Female,N,Black or African American
+3052,Female,N,White
+3053,Male,N,White
+3054,Female,N,White
+3055,Male,N,White
+3056,Female,N,White
+3057,Female,N,White
+3058,Female,N,Black or African American
+3059,Female,N,White
+3060,Male,N,Not Available
+3061,Male,N,White
+3062,Female,N,White
+3063,Female,N,White
+3064,Male,N,White
+3065,Female,N,White
+3066,Female,N,White
+3067,Female,N,White
+3068,Female,N,White
+3069,Female,N,Black or African American
+3070,Female,N,Black or African American
+3071,Female,N,Non Resident Alien
+3072,Female,N,White
+3073,Male,Y,White
+3074,Female,N,White
+3075,Female,N,White
+3076,Female,N,White
+3077,Female,N,Hispanic/Latino
+3078,Female,N,Black or African American
+3079,Female,N,Hispanic/Latino
+3080,Male,N,Hispanic/Latino
+3081,Female,N,White
+3082,Female,N,Asian
+3083,Male,N,White
+3084,Female,N,White
+3085,Female,N,White
+3086,Male,N,White
+3087,Male,Y,White
+3088,Female,N,Black or African American
+3089,Male,N,Black or African American
+3090,Male,N,Two or More Races
+3091,Male,Y,Hispanic/Latino
+3092,Male,N,Black or African American
+3093,Male,N,Hispanic/Latino
+3094,Female,N,White
+3095,Female,N,White
+3096,Male,N,White
+3097,Female,N,White
+3098,Female,N,White
+3099,Male,N,White
+3100,Female,N,Two or More Races
+3101,Female,N,White
+3102,Female,N,White
+3103,Female,N,White
+3104,Female,N,White
+3105,Female,N,Black or African American
+3106,Female,N,White
+3107,Female,N,White
+3108,Female,N,Hispanic/Latino
+3109,Female,N,Black or African American
+3110,Female,N,Black or African American
+3111,Female,Y,White
+3112,Female,N,White
+3113,Female,N,White
+3114,Male,N,White
+3115,Female,N,White
+3116,Female,N,Black or African American
+3117,Male,N,White
+3118,Female,N,White
+3119,Male,N,White
+3120,Female,N,White
+3121,Female,N,White
+3122,Male,Y,Asian
+3123,Female,N,White
+3124,Female,N,White
+3125,Female,N,White
+3126,Male,N,Two or More Races
+3127,Male,N,Hispanic/Latino
+3128,Female,N,Hispanic/Latino
+3129,Female,N,White
+3130,Male,N,Hispanic/Latino
+3131,Female,N,Non Resident Alien
+3132,Female,N,White
+3133,Female,N,White
+3134,Female,N,Hispanic/Latino
+3135,Female,N,Hispanic/Latino
+3136,Male,N,White
+3137,Female,N,American Indian/Alaska Native
+3138,Male,N,White
+3139,Male,N,Hispanic/Latino
+3140,Male,N,Hispanic/Latino
+3141,Female,N,White
+3142,Female,N,White
+3143,Female,N,White
+3144,Male,N,Hispanic/Latino
+3145,Female,N,White
+3146,Female,N,White
+3147,Male,Y,White
+3148,Female,Y,White
+3149,Female,N,White
+3150,Male,Y,Not Available
+3151,Male,Y,Black or African American
+3152,Male,Y,White
+3153,Female,N,Black or African American
+3154,Female,N,Black or African American
+3155,Female,Y,White
+3156,Female,N,Hispanic/Latino
+3157,Female,N,Hispanic/Latino
+3158,Female,N,White
+3159,Male,N,White
+3160,Female,N,White
+3161,Male,N,White
+3162,Male,N,White
+3163,Female,N,White
+3164,Female,N,White
+3165,Female,N,White
+3166,Female,N,White
+3167,Female,N,White
+3168,Male,N,White
+3169,Female,N,White
+3170,Female,N,White
+3171,Male,N,White
+3172,Female,N,Hispanic/Latino
+3173,Male,N,White
+3174,Female,N,White
+3175,Female,N,Hispanic/Latino
+3176,Female,N,White
+3177,Female,Y,White
+3178,Female,N,Two or More Races
+3179,Female,N,White
+3180,Female,N,White
+3181,Female,N,White
+3182,Female,N,White
+3183,Male,N,White
+3184,Female,N,American Indian/Alaska Native
+3185,Female,Y,White
+3186,Female,Y,White
+3187,Female,N,White
+3188,Female,N,Hispanic/Latino
+3189,Female,N,Non Resident Alien
+3190,Female,Y,Hispanic/Latino
+3191,Female,N,White
+3192,Female,N,Black or African American
+3193,Male,N,White
+3194,Female,N,White
+3195,Female,N,White
+3196,Male,N,Asian
+3197,Male,N,Black or African American
+3198,Male,N,Black or African American
+3199,Female,N,White
+3200,Male,N,White
+3201,Female,N,White
+3202,Male,N,White
+3203,Female,N,Hispanic/Latino
+3204,Female,N,White
+3205,Male,N,Hispanic/Latino
+3206,Female,N,White
+3207,Female,N,White
+3208,Female,N,White
+3209,Male,N,Hispanic/Latino
+3210,Male,N,White
+3211,Male,N,White
+3212,Female,N,Hispanic/Latino
+3213,Male,N,White
+3214,Female,N,White
+3215,Male,N,White
+3216,Female,N,White
+3217,Female,N,White
+3218,Male,N,White
+3219,Male,N,Black or African American
+3220,Female,N,White
+3221,Female,N,White
+3222,Female,Y,White
+3223,Female,N,American Indian/Alaska Native
+3224,Female,N,White
+3225,Male,N,White
+3226,Male,Y,White
+3227,Male,N,White
+3228,Female,N,Black or African American
+3229,Male,Y,White
+3230,Female,N,Not Available
+3231,Female,N,American Indian/Alaska Native
+3232,Female,N,Two or More Races
+3233,Female,N,Hispanic/Latino
+3234,Female,N,White
+3235,Female,N,White
+3236,Female,N,Hispanic/Latino
+3237,Female,N,White
+3238,Female,N,White
+3239,Female,N,Hispanic/Latino
+3240,Female,N,Hispanic/Latino
+3241,Female,N,Hispanic/Latino
+3242,Female,N,Hispanic/Latino
+3243,Female,N,White
+3244,Female,N,Black or African American
+3245,Female,Y,White
+3246,Female,Y,Asian
+3247,Female,N,Black or African American
+3248,Male,N,White
+3249,Female,N,Black or African American
+3250,Female,N,Black or African American
+3251,Female,N,White
+3252,Female,N,White
+3253,Female,N,White
+3254,Male,N,American Indian/Alaska Native
+3255,Male,Y,White
+3256,Female,N,Two or More Races
+3257,Male,N,White
+3258,Female,N,White
+3259,Female,N,White
+3260,Female,N,Hispanic/Latino
+3261,Female,N,White
+3262,Male,Y,Hispanic/Latino
+3263,Female,N,Non Resident Alien
+3264,Female,N,White
+3265,Male,Y,Not Available
+3266,Female,N,Black or African American
+3267,Male,N,White
+3268,Female,N,Two or More Races
+3269,Female,N,American Indian/Alaska Native
+3270,Male,Y,White
+3271,Female,N,White
+3272,Male,N,White
+3273,Male,N,White
+3274,Female,N,Hispanic/Latino
+3275,Female,N,White
+3276,Female,N,Hispanic/Latino
+3277,Female,N,Hispanic/Latino
+3278,Female,N,White
+3279,Female,N,Not Available
+3280,Female,N,White
+3281,Female,N,White
+3282,Female,N,White
+3283,Female,N,Not Available
+3284,Female,N,White
+3285,Female,Y,Hispanic/Latino
+3286,Female,N,White
+3287,Female,N,Hispanic/Latino
+3288,Female,N,Hispanic/Latino
+3289,Female,N,White
+3290,Female,N,White
+3291,Male,N,White
+3292,Female,N,Asian
+3293,Female,N,White
+3294,Female,N,White
+3295,Female,N,White
+3296,Female,N,Hispanic/Latino
+3297,Female,N,White
+3298,Female,N,Two or More Races
+3299,Female,N,White
+3300,Female,N,Hispanic/Latino
+3301,Female,N,White
+3302,Female,N,White
+3303,Male,N,White
+3304,Female,N,Non Resident Alien
+3305,Female,N,White
+3306,Female,N,White
+3307,Female,N,Two or More Races
+3308,Female,N,White
+3309,Female,N,White
+3310,Female,N,White
+3311,Female,N,White
+3312,Female,N,Two or More Races
+3313,Female,N,White
+3314,Female,N,White
+3315,Male,N,White
+3316,Female,N,Hispanic/Latino
+3317,Female,N,White
+3318,Female,N,White
+3319,Female,N,Asian
+3320,Female,N,White
+3321,Female,N,White
+3322,Female,N,Black or African American
+3323,Female,N,White
+3324,Female,N,White
+3325,Female,N,Asian
+3326,Female,N,White
+3327,Female,N,White
+3328,Female,N,White
+3329,Female,N,White
+3330,Female,N,Hispanic/Latino
+3331,Female,N,Hispanic/Latino
+3332,Female,N,White
+3333,Female,N,White
+3334,Male,N,White
+3335,Male,N,White
+3336,Female,N,White
+3337,Female,N,Hispanic/Latino
+3338,Male,N,White
+3339,Female,N,White
+3340,Male,Y,White
+3341,Male,N,White
+3342,Female,N,Black or African American
+3343,Female,N,Black or African American
+3344,Female,N,White
+3345,Male,N,White
+3346,Female,N,White
+3347,Male,N,White
+3348,Female,N,Hispanic/Latino
+3349,Female,N,White
+3350,Female,N,White
+3351,Male,N,White
+3352,Female,N,White
+3353,Female,N,White
+3354,Female,N,White
+3355,Female,N,White
+3356,Female,N,White
+3357,Male,N,Hispanic/Latino
+3358,Female,N,White
+3359,Female,N,White
+3360,Male,N,White
+3361,Male,N,White
+3362,Male,N,Asian
+3363,Male,Y,Hispanic/Latino
+3364,Male,N,Not Available
+3365,Male,N,Black or African American
+3366,Female,N,Hispanic/Latino
+3367,Female,N,White
+3368,Female,N,White
+3369,Female,N,White
+3370,Male,N,Black or African American
+3371,Male,N,Two or More Races
+3372,Female,N,White
+3373,Female,N,White
+3374,Female,N,White
+3375,Male,N,Hispanic/Latino
+3376,Female,N,White
+3377,Male,Y,White
+3378,Female,N,White
+3379,Female,N,White
+3380,Female,Y,Not Available
+3381,Male,N,White
+3382,Female,N,White
+3383,Male,N,Hispanic/Latino
+3384,Female,N,Hispanic/Latino
+3385,Female,N,Black or African American
+3386,Male,Y,White
+3387,Male,N,White
+3388,Female,N,White
+3389,Male,N,White
+3390,Male,Y,Two or More Races
+3391,Male,N,Black or African American
+3392,Male,N,White
+3393,Female,N,Black or African American
+3394,Female,N,White
+3395,Female,N,Hispanic/Latino
+3396,Female,Y,White
+3397,Male,N,White
+3398,Female,N,White
+3399,Male,N,White
+3400,Male,N,White
+3401,Female,N,White
+3402,Female,N,White
+3403,Female,N,White
+3404,Female,N,Black or African American
+3405,Male,N,White
+3406,Female,N,White
+3407,Female,Y,Black or African American
+3408,Female,N,Hispanic/Latino
+3409,Male,N,White
+3410,Female,N,Hispanic/Latino
+3411,Female,N,Native Hawaiian/Pacific Islander
+3412,Male,N,White
+3413,Female,N,White
+3414,Female,N,White
+3415,Female,N,Hispanic/Latino
+3416,Female,N,White
+3417,Male,Y,American Indian/Alaska Native
+3418,Male,N,White
+3419,Male,Y,Black or African American
+3420,Male,N,White
+3421,Female,N,Hispanic/Latino
+3422,Male,Y,White
+3423,Male,N,Hispanic/Latino
+3424,Male,N,White
+3425,Male,Y,Two or More Races
+3426,Male,Y,Hispanic/Latino
+3427,Female,N,Hispanic/Latino
+3428,Female,N,Black or African American
+3429,Female,Y,Hispanic/Latino
+3430,Female,N,White
+3431,Male,N,Hispanic/Latino
+3432,Female,N,White
+3433,Female,N,Black or African American
+3434,Male,N,White
+3435,Male,Y,Asian
+3436,Male,N,White
+3437,Male,N,White
+3438,Female,N,White
+3439,Female,N,White
+3440,Female,N,Black or African American
+3441,Male,N,Hispanic/Latino
+3442,Female,N,Hispanic/Latino
+3443,Female,N,White
+3444,Female,N,Black or African American
+3445,Male,N,White
+3446,Female,N,Black or African American
+3447,Male,N,White
+3448,Female,N,White
+3449,Female,N,Black or African American
+3450,Female,N,White
+3451,Female,N,White
+3452,Female,N,White
+3453,Female,N,Hispanic/Latino
+3454,Female,N,White
+3455,Female,N,White
+3456,Female,N,White
+3457,Male,Y,Hispanic/Latino
+3458,Female,N,White
+3459,Female,N,White
+3460,Female,N,Hispanic/Latino
+3461,Female,N,White
+3462,Female,N,
+3463,Female,N,White
+3464,Female,N,White
+3465,Female,N,White
+3466,Male,N,White
+3467,Female,N,Black or African American
+3468,Male,N,Hispanic/Latino
+3469,Female,N,White
+3470,Female,N,Hispanic/Latino
+3471,Female,N,White
+3472,Male,N,White
+3473,Male,N,White
+3474,Female,N,Black or African American
+3475,Male,N,White
+3476,Female,N,White
+3477,Female,N,White
+3478,Female,N,Black or African American
+3479,Female,N,White
+3480,Male,N,White
+3481,Male,N,Hispanic/Latino
+3482,Female,N,White
+3483,Male,Y,White
+3484,Female,N,White
+3485,Female,N,White
+3486,Male,Y,White
+3487,Female,N,White
+3488,Female,N,Black or African American
+3489,Female,N,White
+3490,Male,N,White
+3491,Male,N,White
+3492,Male,N,White
+3493,Male,N,Two or More Races
+3494,Male,N,Black or African American
+3495,Male,N,White
+3496,Female,N,White
+3497,Male,N,White
+3498,Female,N,White
+3499,Male,N,White
+3500,Female,N,White
+3501,Male,N,White
+3502,Male,Y,White
+3503,Male,N,White
+3504,Female,N,Black or African American
+3505,Male,N,Black or African American
+3506,Female,N,Black or African American
+3507,Female,N,Non Resident Alien
+3508,Male,Y,White
+3509,Female,N,Two or More Races
+3510,Female,N,Two or More Races
+3511,Male,Y,Asian
+3512,Female,N,Hispanic/Latino
+3513,Male,N,White
+3514,Female,N,White
+3515,Female,N,White
+3516,Male,N,White
+3517,Female,N,Black or African American
+3518,Male,N,American Indian/Alaska Native
+3519,Female,N,White
+3520,Male,N,White
+3521,Female,N,White
+3522,Male,N,White
+3523,Female,N,Black or African American
+3524,Female,N,Hispanic/Latino
+3525,Female,N,White
+3526,Female,Y,White
+3527,Female,Y,White
+3528,Female,N,White
+3529,Male,N,Black or African American
+3530,Female,Y,White
+3531,Female,N,White
+3532,Female,N,White
+3533,Female,N,White
+3534,Male,N,White
+3535,Female,N,Black or African American
+3536,Male,N,White
+3537,Female,N,White
+3538,Male,N,
+3539,Female,N,Hispanic/Latino
+3540,Male,N,Black or African American
+3541,Female,N,White
+3542,Female,N,White
+3543,Female,N,Non Resident Alien
+3544,Male,N,Black or African American
+3545,Female,N,White
+3546,Female,N,Hispanic/Latino
+3547,Female,N,White
+3548,Female,N,White
+3549,Female,N,White
+3550,Male,N,White
+3551,Male,N,White
+3552,Male,N,White
+3553,Female,N,Hispanic/Latino
+3554,Female,N,Hispanic/Latino
+3555,Male,N,Black or African American
+3556,Male,N,White
+3557,Female,N,White
+3558,Female,N,Hispanic/Latino
+3559,Female,N,White
+3560,Male,N,Black or African American
+3561,Male,N,White
+3562,Male,N,White
+3563,Male,N,Hispanic/Latino
+3564,Male,N,White
+3565,Female,N,Hispanic/Latino
+3566,Female,N,Hispanic/Latino
+3567,Female,N,White
+3568,Male,N,Black or African American
+3569,Female,N,White
+3570,Female,N,White
+3571,Female,N,Hispanic/Latino
+3572,Male,N,Black or African American
+3573,Female,N,White
+3574,Female,Y,White
+3575,Female,N,Hispanic/Latino
+3576,Female,Y,White
+3577,Female,N,Black or African American
+3578,Female,N,White
+3579,Female,N,White
+3580,Male,N,Black or African American
+3581,Male,N,White
+3582,Male,Y,White
+3583,Male,N,White
+3584,Male,N,White
+3585,Male,N,White
+3586,Male,Y,White
+3587,Female,N,White
+3588,Female,N,Hispanic/Latino
+3589,Male,N,White
+3590,Male,N,
+3591,Male,N,White
+3592,Male,N,Hispanic/Latino
+3593,Female,N,Two or More Races
+3594,Male,N,White
+3595,Female,N,Native Hawaiian/Pacific Islander
+3596,Male,N,Hispanic/Latino
+3597,Female,N,Two or More Races
+3598,Male,N,White
+3599,Female,N,White
+3600,Male,N,White
+3601,Male,N,White
+3602,Male,Y,White
+3603,Female,N,Hispanic/Latino
+3604,Female,Y,Hispanic/Latino
+3605,Female,N,White
+3606,Male,N,Hispanic/Latino
+3607,Female,N,Two or More Races
+3608,Female,N,White
+3609,Female,N,White
+3610,Female,N,White
+3611,Female,N,American Indian/Alaska Native
+3612,Female,N,Asian
+3613,Female,N,Asian
+3614,Male,N,Hispanic/Latino
+3615,Female,N,Asian
+3616,Male,N,White
+3617,Female,N,Black or African American
+3618,Male,N,White
+3619,Female,N,White
+3620,Male,N,Hispanic/Latino
+3621,Female,N,Non Resident Alien
+3622,Male,N,Non Resident Alien
+3623,Male,N,Hispanic/Latino
+3624,Male,N,White
+3625,Female,Y,Black or African American
+3626,Male,N,White
+3627,Female,N,White
+3628,Female,N,Black or African American
+3629,Female,N,Hispanic/Latino
+3630,Male,N,White
+3631,Female,N,White
+3632,Male,N,Black or African American
+3633,Female,N,White
+3634,Male,N,White
+3635,Female,Y,Black or African American
+3636,Male,Y,Hispanic/Latino
+3637,Female,N,White
+3638,Female,N,White
+3639,Female,N,White
+3640,Male,N,White
+3641,Male,N,White
+3642,Male,N,Hispanic/Latino
+3643,Male,N,White
+3644,Male,N,White
+3645,Female,N,White
+3646,Female,N,White
+3647,Male,N,Black or African American
+3648,Female,N,White
+3649,Female,N,White
+3650,Female,N,White
+3651,Female,N,White
+3652,Female,N,Black or African American
+3653,Male,Y,White
+3654,Female,N,Hispanic/Latino
+3655,Female,N,White
+3656,Male,N,White
+3657,Female,N,White
+3658,Male,N,White
+3659,Male,N,White
+3660,Male,Y,White
+3661,Male,N,White
+3662,Female,N,White
+3663,Female,N,White
+3664,Male,N,White
+3665,Female,N,White
+3666,Female,N,Hispanic/Latino
+3667,Female,N,White
+3668,Male,N,White
+3669,Female,N,Asian
+3670,Female,N,White
+3671,Female,N,White
+3672,Male,N,Hispanic/Latino
+3673,Female,N,White
+3674,Female,N,White
+3675,Female,Y,Hispanic/Latino
+3676,Female,N,White
+3677,Female,N,White
+3678,Female,N,Hispanic/Latino
+3679,Female,N,White
+3680,Female,N,Black or African American
+3681,Female,N,White
+3682,Female,N,White
+3683,Female,N,White
+3684,Female,N,White
+3685,Female,N,White
+3686,Female,N,Hispanic/Latino
+3687,Female,N,White
+3688,Female,N,White
+3689,Female,N,Non Resident Alien
+3690,Male,N,White
+3691,Female,N,White
+3692,Female,N,Hispanic/Latino
+3693,Female,N,White
+3694,Female,N,White
+3695,Female,N,White
+3696,Female,N,White
+3697,Female,N,White
+3698,Female,N,Black or African American
+3699,Male,N,White
+3700,Female,N,White
+3701,Female,N,Asian
+3702,Female,N,Hispanic/Latino
+3703,Female,N,Black or African American
+3704,Female,N,Hispanic/Latino
+3705,Female,N,Hispanic/Latino
+3706,Female,N,White
+3707,Female,N,White
+3708,Male,N,Hispanic/Latino
+3709,Female,N,White
+3710,Female,N,White
+3711,Female,N,White
+3712,Male,N,Hispanic/Latino
+3713,Female,N,White
+3714,Female,N,Not Available
+3715,Female,N,Hispanic/Latino
+3716,Male,N,White
+3717,Female,N,White
+3718,Female,N,White
+3719,Female,N,White
+3720,Male,N,Asian
+3721,Male,N,White
+3722,Male,N,White
+3723,Female,N,Hispanic/Latino
+3724,Female,N,Hispanic/Latino
+3725,Female,N,Hispanic/Latino
+3726,Female,N,Hispanic/Latino
+3727,Male,Y,Two or More Races
+3728,Male,Y,White
+3729,Male,N,White
+3730,Male,N,White
+3731,Male,N,White
+3732,Male,N,White
+3733,Female,N,Hispanic/Latino
+3734,Female,N,Hispanic/Latino
+3735,Male,N,Hispanic/Latino
+3736,Female,N,Non Resident Alien
+3737,Female,N,Hispanic/Latino
+3738,Male,N,White
+3739,Male,N,Hispanic/Latino
+3740,Female,N,White
+3741,Male,N,White
+3742,Female,N,White
+3743,Female,N,Hispanic/Latino
+3744,Female,N,White
+3745,Female,N,Asian
+3746,Female,N,White
+3747,Male,N,White
+3748,Male,N,White
+3749,Male,Y,White
+3750,Female,N,White
+3751,Female,N,White
+3752,Male,Y,White
+3753,Female,N,Hispanic/Latino
+3754,Female,N,White
+3755,Female,N,Asian
+3756,Female,N,White
+3757,Male,N,White
+3758,Male,N,White
+3759,Male,N,Hispanic/Latino
+3760,Male,N,White
+3761,Male,N,Black or African American
+3762,Female,N,Hispanic/Latino
+3763,Female,N,White
+3764,Female,N,Asian
+3765,Male,N,Hispanic/Latino
+3766,Female,N,White
+3767,Female,N,Hispanic/Latino
+3768,Male,Y,White
+3769,Female,N,Black or African American
+3770,Male,N,White
+3771,Female,N,White
+3772,Male,N,Black or African American
+3773,Female,N,White
+3774,Male,N,Black or African American
+3775,Female,N,White
+3776,Female,N,White
+3777,Male,N,Hispanic/Latino
+3778,Female,N,Black or African American
+3779,Female,N,Hispanic/Latino
+3780,Male,N,Black or African American
+3781,Male,N,White
+3782,Male,N,White
+3783,Male,Y,White
+3784,Female,N,White
+3785,Male,Y,Black or African American
+3786,Female,N,White
+3787,Female,N,Two or More Races
+3788,Female,N,Black or African American
+3789,Male,Y,White
+3790,Male,N,White
+3791,Female,N,White
+3792,Male,N,White
+3793,Female,Y,White
+3794,Male,N,White
+3795,Female,N,Black or African American
+3796,Female,N,Hispanic/Latino
+3797,Male,N,White
+3798,Male,N,White
+3799,Female,N,White
+3800,Male,N,White
+3801,Female,N,Two or More Races
+3802,Female,N,White
+3803,Female,N,White
+3804,Female,N,White
+3805,Female,N,White
+3806,Female,N,White
+3807,Male,N,Black or African American
+3808,Female,Y,Black or African American
+3809,Female,N,White
+3810,Female,N,White
+3811,Female,N,White
+3812,Female,N,White
+3813,Male,N,White
+3814,Female,N,White
+3815,Female,N,White
+3816,Male,N,White
+3817,Female,Y,White
+3818,Female,N,White
+3819,Male,Y,White
+3820,Female,N,White
+3821,Female,N,White
+3822,Female,N,Hispanic/Latino
+3823,Male,N,White
+3824,Female,N,White
+3825,Male,N,White
+3826,Female,N,
+3827,Male,N,American Indian/Alaska Native
+3828,Female,N,White
+3829,Male,N,White
+3830,Male,N,Not Available
+3831,Female,N,White
+3832,Female,N,White
+3833,Female,N,Native Hawaiian/Pacific Islander
+3834,Male,Y,White
+3835,Female,N,White
+3836,Female,N,White
+3837,Male,N,White
+3838,Female,N,Asian
+3839,Male,N,White
+3840,Male,N,Hispanic/Latino
+3841,Female,N,Asian
+3842,Male,N,Black or African American
+3843,Male,N,White
+3844,Female,Y,Hispanic/Latino
+3845,Female,N,White
+3846,Female,N,White
+3847,Male,N,White
+3848,Male,Y,White
+3849,Male,N,White
+3850,Male,Y,Hispanic/Latino
+3851,Female,N,White
+3852,Female,N,White
+3853,Female,N,White
+3854,Female,N,Hispanic/Latino
+3855,Male,N,Hispanic/Latino
+3856,Female,N,White
+3857,Female,N,Black or African American
+3858,Male,N,Asian
+3859,Female,N,Black or African American
+3860,Male,N,Hispanic/Latino
+3861,Female,N,White
+3862,Female,N,White
+3863,Female,N,Asian
+3864,Male,N,White
+3865,Male,N,White
+3866,Male,N,White
+3867,Male,N,White
+3868,Female,N,White
+3869,Male,N,Black or African American
+3870,Male,N,Non Resident Alien
+3871,Male,N,White
+3872,Female,N,Black or African American
+3873,Female,N,Not Available
+3874,Male,N,Black or African American
+3875,Female,N,White
+3876,Female,N,Hispanic/Latino
+3877,Female,N,White
+3878,Male,N,White
+3879,Male,N,White
+3880,Female,N,Hispanic/Latino
+3881,Female,N,White
+3882,Female,N,Black or African American
+3883,Female,N,Not Available
+3884,Female,N,White
+3885,Female,N,Hispanic/Latino
+3886,Male,N,Asian
+3887,Female,N,Hispanic/Latino
+3888,,N,
+3889,Female,N,Black or African American
+3890,Female,N,Hispanic/Latino
+3891,Male,N,White
+3892,Female,N,White
+3893,Female,N,White
+3894,Female,N,White
+3895,Female,N,Two or More Races
+3896,Male,N,Black or African American
+3897,Female,N,White
+3898,Female,N,Black or African American
+3899,Female,N,Hispanic/Latino
+3900,Male,N,Hispanic/Latino
+3901,Female,N,White
+3902,Female,N,White
+3903,Male,N,White
+3904,Female,N,Hispanic/Latino
+3905,Female,N,White
+3906,Female,N,Hispanic/Latino
+3907,Female,N,Not Available
+3908,Male,N,White
+3909,Male,N,White
+3910,Female,N,White
+3911,Female,N,White
+3912,Female,N,White
+3913,Male,N,White
+3914,Female,N,Non Resident Alien
+3915,Male,N,Hispanic/Latino
+3916,Male,N,White
+3917,Female,N,White
+3918,Male,N,Black or African American
+3919,Male,N,White
+3920,Female,N,Hispanic/Latino
+3921,Male,N,White
+3922,Male,N,White
+3923,Male,N,Hispanic/Latino
+3924,Female,N,Non Resident Alien
+3925,Male,N,White
+3926,Female,N,Hispanic/Latino
+3927,Male,N,Non Resident Alien
+3928,Male,N,White
+3929,Female,N,White
+3930,Female,N,White
+3931,Female,N,White
+3932,Female,N,White
+3933,Female,N,White
+3934,Female,N,White
+3935,Female,N,Hispanic/Latino
+3936,Female,Y,White
+3937,Male,N,White
+3938,Female,N,Hispanic/Latino
+3939,Female,N,White
+3940,Male,N,Non Resident Alien
+3941,Male,N,White
+3942,Female,Y,Asian
+3943,Female,N,White
+3944,Female,N,Asian
+3945,Female,N,White
+3946,Male,N,Black or African American
+3947,Male,N,White
+3948,Female,N,White
+3949,Male,N,Non Resident Alien
+3950,Male,N,Two or More Races
+3951,Male,N,White
+3952,Female,N,Black or African American
+3953,Female,N,American Indian/Alaska Native
+3954,Female,N,Asian
+3955,Female,N,Black or African American
+3956,Male,Y,White
+3957,Male,N,White
+3958,Female,N,Not Available
+3959,Female,N,White
+3960,Male,N,White
+3961,Female,N,Black or African American
+3962,Female,N,White
+3963,Female,N,Two or More Races
+3964,Male,N,Black or African American
+3965,Male,N,White
+3966,Male,N,White
+3967,Male,N,White
+3968,Female,N,White
+3969,Female,N,White
+3970,Female,N,White
+3971,Male,N,Black or African American
+3972,Female,N,Black or African American
+3973,Female,N,Black or African American
+3974,Female,N,Hispanic/Latino
+3975,Female,N,White
+3976,Female,N,White
+3977,Male,N,Hispanic/Latino
+3978,Female,N,White
+3979,Female,N,Asian
+3980,Female,N,Black or African American
+3981,Female,N,White
+3982,Female,N,White
+3983,Male,N,White
+3984,Female,N,White
+3985,Female,N,White
+3986,Female,Y,Hispanic/Latino
+3987,Female,N,White
+3988,Female,N,White
+3989,Female,N,White
+3990,Male,N,Hispanic/Latino
+3991,Female,N,Black or African American
+3992,Female,N,White
+3993,Male,N,Asian
+3994,Male,N,White
+3995,Female,N,Hispanic/Latino
+3996,Male,N,White
+3997,Female,N,American Indian/Alaska Native
+3998,Female,N,White
+3999,Female,N,White
+4000,Female,N,White
+4001,Female,N,Black or African American
+4002,Female,N,White
+4003,Female,N,White
+4004,Female,N,White
+4005,Female,N,White
+4006,Male,N,White
+4007,Male,N,White
+4008,Female,N,Black or African American
+4009,Female,N,Hispanic/Latino
+4010,Male,N,Black or African American
+4011,Female,N,White
+4012,Female,N,White
+4013,Male,N,White
+4014,Female,N,Hispanic/Latino
+4015,Female,N,White
+4016,Female,N,Black or African American
+4017,Female,N,White
+4018,Female,N,White
+4019,Male,N,White
+4020,Female,N,White
+4021,Female,N,White
+4022,Female,N,White
+4023,Female,N,White
+4024,Female,N,White
+4025,Female,N,White
+4026,Female,N,White
+4027,Male,N,White
+4028,Female,N,White
+4029,Female,N,White
+4030,Female,N,Asian
+4031,Male,N,White
+4032,Female,N,Black or African American
+4033,Male,Y,White
+4034,Male,N,White
+4035,Female,N,White
+4036,Male,N,White
+4037,Female,N,White
+4038,Male,N,White
+4039,Female,N,Two or More Races
+4040,Male,N,White
+4041,Male,Y,White
+4042,Male,Y,White
+4043,Female,N,White
+4044,Male,N,Non Resident Alien
+4045,Female,N,White
+4046,Male,N,White
+4047,Male,N,White
+4048,Male,N,White
+4049,Female,Y,White
+4050,Female,N,Black or African American
+4051,Female,N,White
+4052,Female,N,White
+4053,Female,Y,White
+4054,Female,N,White
+4055,Female,N,White
+4056,Female,N,White
+4057,Female,N,White
+4058,Female,N,White
+4059,Female,N,White
+4060,Female,N,White
+4061,Female,N,White
+4062,Female,N,White
+4063,Male,N,White
+4064,Male,Y,Hispanic/Latino
+4065,Female,Y,Hispanic/Latino
+4066,Male,N,White
+4067,Female,N,Not Available
+4068,Female,N,Black or African American
+4069,Female,N,White
+4070,Female,N,White
+4071,Female,N,White
+4072,Female,N,White
+4073,Female,N,White
+4074,Male,Y,White
+4075,Male,N,White
+4076,Female,N,White
+4077,Female,N,American Indian/Alaska Native
+4078,Male,Y,White
+4079,Male,N,White
+4080,Female,N,White
+4081,Female,N,Two or More Races
+4082,Male,N,Black or African American
+4083,Female,N,Black or African American
+4084,Female,N,White
+4085,Female,N,White
+4086,Female,N,Hispanic/Latino
+4087,Female,N,Hispanic/Latino
+4088,Female,N,Asian
+4089,Female,N,Hispanic/Latino
+4090,Female,N,White
+4091,Female,N,Two or More Races
+4092,Female,N,White
+4093,Female,N,White
+4094,Female,N,White
+4095,Female,N,White
+4096,Female,N,White
+4097,Female,N,Hispanic/Latino
+4098,Female,N,White
+4099,Male,N,White
+4100,Female,N,White
+4101,Female,N,Black or African American
+4102,Male,N,Asian
+4103,Female,N,Non Resident Alien
+4104,Female,N,White
+4105,Female,N,Hispanic/Latino
+4106,Female,N,Hispanic/Latino
+4107,Female,N,Hispanic/Latino
+4108,Female,N,Non Resident Alien
+4109,Male,N,White
+4110,Female,N,White
+4111,Female,N,White
+4112,Female,N,Asian
+4113,Female,N,White
+4114,Female,N,White
+4115,Female,N,Two or More Races
+4116,Female,N,White
+4117,Female,N,White
+4118,Female,N,Non Resident Alien
+4119,Male,N,White
+4120,Female,N,White
+4121,Female,N,Two or More Races
+4122,Female,N,White
+4123,Female,N,White
+4124,Female,N,White
+4125,Female,N,Hispanic/Latino
+4126,Female,N,White
+4127,Female,N,Hispanic/Latino
+4128,Female,N,White
+4129,Female,N,White
+4130,Female,N,White
+4131,Female,N,White
+4132,Male,N,Hispanic/Latino
+4133,Female,N,Asian
+4134,Female,N,White
+4135,Female,N,White
+4136,Female,N,White
+4137,Female,N,White
+4138,Female,N,White
+4139,Male,N,Hispanic/Latino
+4140,Male,N,White
+4141,Female,N,Two or More Races
+4142,Male,N,White
+4143,Female,N,White
+4144,Female,N,Black or African American
+4145,Male,N,White
+4146,Male,N,White
+4147,Female,N,White
+4148,Female,N,White
+4149,Female,N,White
+4150,Female,N,Asian
+4151,Female,N,White
+4152,Female,N,White
+4153,Male,N,Asian
+4154,Male,N,White
+4155,Female,N,Hispanic/Latino
+4156,Female,N,White
+4157,Female,N,Black or African American
+4158,Female,N,White
+4159,Female,N,Hispanic/Latino
+4160,Female,N,White
+4161,Female,N,White
+4162,Female,N,White
+4163,Female,N,White
+4164,Female,N,Hispanic/Latino
+4165,Female,N,White
+4166,Female,N,Hispanic/Latino
+4167,Female,N,White
+4168,Female,N,Hispanic/Latino
+4169,Female,N,White
+4170,Female,N,White
+4171,Female,N,Black or African American
+4172,Female,N,Non Resident Alien
+4173,Female,N,White
+4174,Male,Y,White
+4175,Female,N,White
+4176,Female,N,White
+4177,Female,N,Non Resident Alien
+4178,Female,N,Hispanic/Latino
+4179,Female,N,White
+4180,Female,Y,White
+4181,Male,Y,American Indian/Alaska Native
+4182,Male,N,White
+4183,Male,N,Hispanic/Latino
+4184,Female,N,White
+4185,Male,N,American Indian/Alaska Native
+4186,Female,N,White
+4187,Female,N,White
+4188,Male,Y,White
+4189,Female,N,White
+4190,Female,N,White
+4191,Female,N,White
+4192,Female,N,Black or African American
+4193,Female,N,White
+4194,Male,Y,White
+4195,Female,N,White
+4196,Male,N,White
+4197,Male,N,Black or African American
+4198,Male,N,White
+4199,Female,N,Black or African American
+4200,Female,N,White
+4201,Female,Y,Hispanic/Latino
+4202,Male,N,White
+4203,Female,N,White
+4204,Female,N,White
+4205,Female,N,White
+4206,Female,N,Non Resident Alien
+4207,Male,Y,White
+4208,Female,N,Hispanic/Latino
+4209,Female,N,White
+4210,Female,N,Black or African American
+4211,Female,N,White
+4212,Male,N,White
+4213,Female,N,White
+4214,Female,N,Black or African American
+4215,Male,N,Two or More Races
+4216,Female,N,Black or African American
+4217,Male,Y,White
+4218,Female,N,White
+4219,Male,N,Black or African American
+4220,Female,N,Hispanic/Latino
+4221,Male,N,White
+4222,Female,N,White
+4223,Female,N,Hispanic/Latino
+4224,Male,N,White
+4225,Female,N,Black or African American
+4226,Male,N,Hispanic/Latino
+4227,Female,N,Two or More Races
+4228,Male,N,White
+4229,Female,N,Not Available
+4230,Male,N,White
+4231,Male,Y,White
+4232,Male,N,White
+4233,Female,N,Black or African American
+4234,Female,N,Hispanic/Latino
+4235,Male,N,Two or More Races
+4236,Female,N,Hispanic/Latino
+4237,Female,N,White
+4238,Female,Y,White
+4239,Female,N,White
+4240,Female,N,White
+4241,Female,N,White
+4242,Female,N,White
+4243,Female,N,White
+4244,Male,Y,White
+4245,Male,N,Hispanic/Latino
+4246,Female,N,Hispanic/Latino
+4247,Male,Y,White
+4248,Female,N,Black or African American
+4249,Female,N,White
+4250,Male,N,White
+4251,Female,N,White
+4252,Female,N,White
+4253,Male,N,Hispanic/Latino
+4254,Female,N,White
+4255,Female,N,Native Hawaiian/Pacific Islander
+4256,Female,N,Black or African American
+4257,Female,N,Hispanic/Latino
+4258,Male,Y,White
+4259,Male,N,White
+4260,Female,Y,Not Available
+4261,Female,N,White
+4262,Male,N,Hispanic/Latino
+4263,Female,N,White
+4264,Female,N,Asian
+4265,Female,N,White
+4266,Female,N,Asian
+4267,Female,N,White
+4268,Female,N,White
+4269,Male,N,White
+4270,Female,N,White
+4271,Male,N,White
+4272,Female,N,White
+4273,Female,N,White
+4274,Male,N,Hispanic/Latino
+4275,Male,Y,White
+4276,Male,N,Black or African American
+4277,Male,Y,Hispanic/Latino
+4278,Female,N,White
+4279,Male,N,White
+4280,Female,N,Native Hawaiian/Pacific Islander
+4281,Male,Y,Black or African American
+4282,Male,N,Asian
+4283,Female,N,Hispanic/Latino
+4284,Female,N,Hispanic/Latino
+4285,Female,N,White
+4286,Female,N,Black or African American
+4287,Female,N,White
+4288,Female,N,Black or African American
+4289,Female,N,White
+4290,Female,N,Hispanic/Latino
+4291,Female,N,Hispanic/Latino
+4292,Male,Y,White
+4293,Male,N,White
+4294,Male,Y,Hispanic/Latino
+4295,Female,N,Hispanic/Latino
+4296,Female,N,White
+4297,Male,N,White
+4298,Female,N,White
+4299,Female,N,Hispanic/Latino
+4300,Male,Y,White
+4301,Female,N,Black or African American
+4302,Male,Y,Asian
+4303,Male,N,White
+4304,Male,N,White
+4305,Male,Y,White
+4306,Male,Y,White
+4307,Male,N,White
+4308,Male,N,White
+4309,Male,N,White
+4310,Female,N,Black or African American
+4311,Female,N,Asian
+4312,Female,N,White
+4313,Female,N,White
+4314,Female,N,White
+4315,Female,N,White
+4316,Female,N,Hispanic/Latino
+4317,Female,N,White
+4318,Female,N,White
+4319,Female,N,White
+4320,Female,N,Black or African American
+4321,Female,N,Asian
+4322,Male,Y,White
+4323,Male,N,White
+4324,Male,N,White
+4325,Male,N,White
+4326,Male,Y,Asian
+4327,Female,N,White
+4328,Female,N,Black or African American
+4329,Female,N,White
+4330,Female,N,White
+4331,Female,N,Not Available
+4332,Female,Y,White
+4333,Female,N,Hispanic/Latino
+4334,Female,N,Black or African American
+4335,Female,N,White
+4336,Female,N,American Indian/Alaska Native
+4337,Female,N,Black or African American
+4338,Female,N,White
+4339,Female,Y,White
+4340,Male,N,Black or African American
+4341,Female,N,Non Resident Alien
+4342,Male,N,Hispanic/Latino
+4343,Male,N,Black or African American
+4344,Male,N,Not Available
+4345,Male,N,White
+4346,Male,N,White
+4347,Male,N,White
+4348,Female,N,White
+4349,Female,N,White
+4350,Female,N,Black or African American
+4351,Female,N,White
+4352,Female,N,Black or African American
+4353,Female,N,Black or African American
+4354,Female,N,White
+4355,Female,N,White
+4356,Male,N,Hispanic/Latino
+4357,Male,N,White
+4358,Female,N,White
+4359,Female,N,White
+4360,Male,N,Hispanic/Latino
+4361,Male,N,Hispanic/Latino
+4362,Male,N,White
+4363,Female,N,Asian
+4364,Female,Y,White
+4365,Female,N,Black or African American
+4366,Male,N,White
+4367,Male,N,White
+4368,Female,N,White
+4369,Female,N,White
+4370,Male,N,Hispanic/Latino
+4371,Female,N,Hispanic/Latino
+4372,Male,N,Asian
+4373,Female,N,Black or African American
+4374,Female,N,Black or African American
+4375,Male,N,White
+4376,Male,N,Hispanic/Latino
+4377,Female,N,Black or African American
+4378,Female,N,Non Resident Alien
+4379,Female,N,Black or African American
+4380,Female,N,Black or African American
+4381,Female,N,Hispanic/Latino
+4382,Female,N,White
+4383,Female,N,White
+4384,Female,N,White
+4385,Female,N,White
+4386,Female,N,Not Available
+4387,Female,N,Two or More Races
+4388,Male,N,White
+4389,Male,Y,White
+4390,Male,N,Black or African American
+4391,Female,N,White
+4392,Female,N,White
+4393,Female,N,White
+4394,Female,N,White
+4395,Male,N,White
+4396,Male,N,Hispanic/Latino
+4397,Female,N,Black or African American
+4398,Male,N,White
+4399,Male,Y,Asian
+4400,Female,N,White
+4401,Male,N,Black or African American
+4402,Male,N,White
+4403,Female,N,White
+4404,Male,N,White
+4405,Female,N,White
+4406,Male,N,White
+4407,Male,N,White
+4408,Female,N,Hispanic/Latino
+4409,Female,N,White
+4410,Female,N,Hispanic/Latino
+4411,Female,N,Hispanic/Latino
+4412,Male,N,Two or More Races
+4413,Male,N,White
+4414,Female,N,White
+4415,Male,N,White
+4416,Female,N,White
+4417,Female,N,White
+4418,Female,N,Black or African American
+4419,Female,N,White
+4420,Female,N,White
+4421,Female,N,White
+4422,Male,N,White
+4423,Male,N,Not Available
+4424,Male,N,White
+4425,Male,N,White
+4426,Female,N,White
+4427,Female,N,Two or More Races
+4428,Male,N,White
+4429,Male,N,White
+4430,Female,N,Non Resident Alien
+4431,Female,N,White
+4432,Female,N,White
+4433,Female,N,Hispanic/Latino
+4434,Female,N,White
+4435,Female,N,Two or More Races
+4436,Male,N,Two or More Races
+4437,Female,N,Hispanic/Latino
+4438,Female,N,Black or African American
+4439,Female,N,Hispanic/Latino
+4440,Male,N,White
+4441,Male,N,White
+4442,Female,N,White
+4443,Female,N,Black or African American
+4444,Female,Y,Hispanic/Latino
+4445,Female,N,White
+4446,Female,N,White
+4447,Male,N,White
+4448,Male,N,White
+4449,Male,Y,Two or More Races
+4450,Male,N,White
+4451,Male,N,White
+4452,Male,N,White
+4453,Female,N,White
+4454,Male,N,White
+4455,Male,N,White
+4456,Male,N,White
+4457,Male,N,White
+4458,Male,N,White
+4459,Male,N,White
+4460,Male,Y,White
+4461,Male,N,White
+4462,Female,N,White
+4463,Female,N,Hispanic/Latino
+4464,Female,N,White
+4465,Male,N,White
+4466,Female,N,White
+4467,Female,N,White
+4468,Male,Y,White
+4469,Male,N,White
+4470,Male,Y,Black or African American
+4471,Male,N,White
+4472,Male,N,White
+4473,Male,Y,White
+4474,Male,N,White
+4475,Female,N,White
+4476,Female,N,White
+4477,Male,Y,White
+4478,Male,N,White
+4479,Female,N,White
+4480,Female,N,Hispanic/Latino
+4481,Male,N,White
+4482,Female,N,White
+4483,Female,N,White
+4484,Female,N,White
+4485,Female,N,Non Resident Alien
+4486,Female,Y,White
+4487,Female,N,White
+4488,Female,N,Two or More Races
+4489,Female,N,White
+4490,Female,N,Non Resident Alien
+4491,Female,N,White
+4492,Female,N,White
+4493,Male,N,White
+4494,Female,N,White
+4495,Female,N,White
+4496,Female,N,White
+4497,Female,N,Asian
+4498,Male,N,White
+4499,Female,N,White
+4500,Female,N,White
+4501,Female,N,White
+4502,Female,N,White
+4503,Female,N,White
+4504,Female,N,White
+4505,Male,N,White
+4506,Female,N,White
+4507,Female,N,Hispanic/Latino
+4508,Female,N,White
+4509,Female,N,White
+4510,Female,N,Asian
+4511,Female,N,White
+4512,Female,N,Black or African American
+4513,Female,N,Hispanic/Latino
+4514,Female,N,White
+4515,Female,N,Hispanic/Latino
+4516,Female,N,Black or African American
+4517,Female,N,Hispanic/Latino
+4518,Female,N,Hispanic/Latino
+4519,Female,N,Hispanic/Latino
+4520,Female,N,White
+4521,Female,N,White
+4522,Female,N,White
+4523,Female,N,White
+4524,Female,N,White
+4525,Female,N,Non Resident Alien
+4526,Male,N,Hispanic/Latino
+4527,Female,N,Hispanic/Latino
+4528,Female,N,White
+4529,Female,N,White
+4530,Female,N,White
+4531,Female,N,Non Resident Alien
+4532,Female,N,White
+4533,Female,N,White
+4534,Female,N,White
+4535,Female,N,White
+4536,Female,N,White
+4537,Female,Y,Black or African American
+4538,Female,N,White
+4539,Male,N,Hispanic/Latino
+4540,Female,N,Black or African American
+4541,Female,N,White
+4542,Female,N,White
+4543,Female,N,White
+4544,Female,N,White
+4545,Female,N,White
+4546,Female,N,White
+4547,Female,N,Black or African American
+4548,Female,N,White
+4549,Female,N,White
+4550,Female,N,White
+4551,Female,N,White
+4552,Female,Y,Black or African American
+4553,Female,N,White
+4554,Female,N,White
+4555,Male,N,Not Available
+4556,Female,N,White
+4557,Female,N,White
+4558,Female,N,White
+4559,Female,N,White
+4560,Male,N,Black or African American
+4561,Male,N,White
+4562,Female,N,Non Resident Alien
+4563,Female,Y,White
+4564,Female,N,White
+4565,Male,N,White
+4566,Male,Y,White
+4567,Male,N,Black or African American
+4568,Female,N,White
+4569,Female,N,White
+4570,Male,Y,Two or More Races
+4571,Female,N,White
+4572,Female,N,Hispanic/Latino
+4573,Male,N,White
+4574,Female,N,White
+4575,Male,N,Hispanic/Latino
+4576,Female,N,White
+4577,Male,N,Two or More Races
+4578,Female,N,White
+4579,Female,N,Black or African American
+4580,Female,N,Hispanic/Latino
+4581,Male,N,White
+4582,Male,N,White
+4583,Female,N,White
+4584,Male,N,White
+4585,Male,N,White
+4586,Male,N,White
+4587,Female,N,White
+4588,Female,N,White
+4589,Male,N,Hispanic/Latino
+4590,Male,N,White
+4591,Male,N,White
+4592,Male,N,White
+4593,Female,N,White
+4594,Female,N,White
+4595,Female,N,Hispanic/Latino
+4596,Male,Y,White
+4597,Male,Y,White
+4598,Female,N,Black or African American
+4599,Male,N,White
+4600,Male,N,Asian
+4601,Female,N,White
+4602,Female,N,White
+4603,Female,N,Hispanic/Latino
+4604,Female,N,White
+4605,Male,N,White
+4606,Male,N,Hispanic/Latino
+4607,Female,N,White
+4608,Male,Y,White
+4609,Female,N,Black or African American
+4610,Male,N,White
+4611,Male,N,White
+4612,Male,Y,Hispanic/Latino
+4613,Male,N,White
+4614,Female,N,White
+4615,Female,N,Black or African American
+4616,Male,Y,White
+4617,Female,N,White
+4618,Female,N,Hispanic/Latino
+4619,Male,N,White
+4620,Male,N,Hispanic/Latino
+4621,Female,N,White
+4622,Male,N,White
+4623,Female,N,White
+4624,Male,N,White
+4625,Male,Y,Hispanic/Latino
+4626,Male,N,White
+4627,Male,N,White
+4628,Female,N,Hispanic/Latino
+4629,Female,N,White
+4630,Male,Y,White
+4631,Male,Y,White
+4632,Male,N,Hispanic/Latino
+4633,Female,N,Black or African American
+4634,Female,N,White
+4635,Male,N,Hispanic/Latino
+4636,Male,N,Hispanic/Latino
+4637,Female,N,White
+4638,Female,N,White
+4639,Male,N,White
+4640,Male,N,White
+4641,Female,N,White
+4642,Female,N,White
+4643,Male,Y,White
+4644,Male,N,White
+4645,Female,N,White
+4646,Male,N,White
+4647,Female,N,White
+4648,Female,N,White
+4649,Male,N,White
+4650,Female,N,White
+4651,Female,N,White
+4652,Male,N,Native Hawaiian/Pacific Islander
+4653,Male,Y,Not Available
+4654,Female,N,White
+4655,Female,N,Black or African American
+4656,Female,N,White
+4657,Male,N,White
+4658,Female,N,White
+4659,Female,N,White
+4660,Female,Y,White
+4661,Male,Y,White
+4662,Female,N,White
+4663,Male,Y,White
+4664,Female,N,Hispanic/Latino
+4665,Female,N,White
+4666,Male,N,Black or African American
+4667,Female,Y,White
+4668,Male,Y,Black or African American
+4669,Male,Y,White
+4670,Male,N,Hispanic/Latino
+4671,Female,N,White
+4672,Female,N,White
+4673,Female,N,White
+4674,Male,Y,Black or African American
+4675,Male,N,White
+4676,Male,Y,Hispanic/Latino
+4677,Female,N,Black or African American
+4678,Female,N,White
+4679,Female,N,White
+4680,Female,N,White
+4681,Female,N,White
+4682,Male,N,White
+4683,Female,N,Hispanic/Latino
+4684,Male,N,White
+4685,Male,N,Hispanic/Latino
+4686,Female,N,Asian
+4687,Female,N,White
+4688,Female,N,White
+4689,Female,N,Black or African American
+4690,Male,N,White
+4691,Female,N,White
+4692,Female,N,Hispanic/Latino
+4693,Male,Y,Black or African American
+4694,Female,N,Asian
+4695,Male,N,Hispanic/Latino
+4696,Female,N,White
+4697,Female,N,White
+4698,Female,N,Black or African American
+4699,Female,N,White
+4700,Female,N,White
+4701,Female,N,White
+4702,Female,N,White
+4703,Female,N,White
+4704,Female,N,Black or African American
+4705,Female,N,American Indian/Alaska Native
+4706,Female,N,Black or African American
+4707,Female,N,White
+4708,Male,Y,Black or African American
+4709,Male,N,Non Resident Alien
+4710,Female,N,White
+4711,Female,N,Asian
+4712,Male,N,White
+4713,Female,N,
+4714,Male,N,Black or African American
+4715,Male,N,White
+4716,Male,N,White
+4717,Male,N,White
+4718,Male,Y,Hispanic/Latino
+4719,Male,N,Not Available
+4720,Male,N,White
+4721,Female,N,American Indian/Alaska Native
+4722,Female,N,White
+4723,Male,N,White
+4724,Female,N,White
+4725,Female,N,Hispanic/Latino
+4726,Female,N,White
+4727,Male,Y,White
+4728,Male,N,White
+4729,Male,N,White
+4730,Female,N,White
+4731,Male,N,Hispanic/Latino
+4732,Female,N,White
+4733,Female,N,Black or African American
+4734,Female,N,Black or African American
+4735,Male,N,Two or More Races
+4736,Male,N,White
+4737,Male,N,Black or African American
+4738,Female,N,White
+4739,Male,N,American Indian/Alaska Native
+4740,Female,N,White
+4741,Female,N,White
+4742,Female,N,Hispanic/Latino
+4743,Male,Y,White
+4744,Female,N,Hispanic/Latino
+4745,Female,N,White
+4746,Male,N,Hispanic/Latino
+4747,Female,N,White
+4748,Male,N,Two or More Races
+4749,Male,N,Native Hawaiian/Pacific Islander
+4750,Male,N,White
+4751,Female,N,White
+4752,Female,N,White
+4753,Female,Y,White
+4754,Male,N,White
+4755,Female,N,White
+4756,Female,N,White
+4757,Female,N,White
+4758,Female,N,White
+4759,Female,N,Asian
+4760,Female,N,White
+4761,Female,N,Black or African American
+4762,Female,N,Two or More Races
+4763,Female,N,White
+4764,Female,N,White
+4765,Female,N,White
+4766,Female,N,White
+4767,Female,N,Asian
+4768,Female,N,Hispanic/Latino
+4769,Female,N,White
+4770,Female,N,Hispanic/Latino
+4771,Female,N,White
+4772,Female,N,White
+4773,Female,N,White
+4774,Female,N,White
+4775,Male,N,White
+4776,Female,N,White
+4777,Female,N,White
+4778,Female,N,Hispanic/Latino
+4779,Female,N,White
+4780,Female,N,White
+4781,Female,N,Black or African American
+4782,Female,N,White
+4783,Female,N,White
+4784,Female,N,White
+4785,Female,N,White
+4786,Male,N,Asian
+4787,Female,N,White
+4788,Female,N,White
+4789,Female,N,White
+4790,Female,N,White
+4791,Female,N,White
+4792,Female,N,White
+4793,Male,N,White
+4794,Female,N,Black or African American
+4795,Male,N,White
+4796,Male,N,Two or More Races
+4797,Female,N,Hispanic/Latino
+4798,Male,N,White
+4799,Male,N,Black or African American
+4800,Female,N,Asian
+4801,Female,N,White
+4802,Female,N,White
+4803,Female,N,White
+4804,Female,Y,White
+4805,Female,N,Hispanic/Latino
+4806,Male,Y,White
+4807,Female,N,Black or African American
+4808,Male,N,Black or African American
+4809,Female,N,White
+4810,Male,N,White
+4811,Male,N,White
+4812,Male,Y,White
+4813,Male,N,White
+4814,Male,Y,Hispanic/Latino
+4815,Male,Y,White
+4816,Female,N,White
+4817,Female,N,Hispanic/Latino
+4818,Male,N,White
+4819,Male,Y,White
+4820,Female,N,White
+4821,Male,N,White
+4822,Male,Y,White
+4823,Female,N,White
+4824,Male,N,White
+4825,Female,Y,White
+4826,Male,N,White
+4827,Male,N,White
+4828,Female,N,Black or African American
+4829,Male,Y,White
+4830,Male,N,White
+4831,Female,N,White
+4832,Female,N,Black or African American
+4833,Female,N,White
+4834,Female,N,White
+4835,Male,N,Black or African American
+4836,Female,N,Hispanic/Latino
+4837,Male,N,White
+4838,Male,N,White
+4839,Female,N,White
+4840,Male,Y,White
+4841,Female,N,White
+4842,Male,N,White
+4843,Male,N,Hispanic/Latino
+4844,Male,N,White
+4845,Male,N,White
+4846,Male,N,Hispanic/Latino
+4847,Female,N,White
+4848,Male,N,White
+4849,Female,N,White
+4850,Male,N,Black or African American
+4851,Female,N,White
+4852,Female,N,White
+4853,Male,N,White
+4854,Female,N,White
+4855,Male,N,White
+4856,Male,N,Hispanic/Latino
+4857,Female,Y,White
+4858,Male,N,Two or More Races
+4859,Female,N,White
+4860,Male,N,White
+4861,Female,N,White
+4862,Male,N,Black or African American
+4863,Female,N,White
+4864,Male,N,White
+4865,Female,N,White
+4866,Male,Y,White
+4867,Female,Y,Two or More Races
+4868,Female,N,White
+4869,Male,N,White
+4870,Male,N,White
+4871,Male,N,White
+4872,Female,N,Hispanic/Latino
+4873,Male,Y,Asian
+4874,Female,N,Black or African American
+4875,Female,N,White
+4876,Male,N,White
+4877,Female,N,White
+4878,Female,N,White
+4879,Female,N,White
+4880,Female,N,White
+4881,Female,N,Hispanic/Latino
+4882,Female,N,Hispanic/Latino
+4883,Male,N,Hispanic/Latino
+4884,Female,N,American Indian/Alaska Native
+4885,Female,N,White
+4886,Female,N,Hispanic/Latino
+4887,Female,N,Hispanic/Latino
+4888,Female,N,White
+4889,Female,N,White
+4890,Male,Y,Hispanic/Latino
+4891,Female,N,White
+4892,Female,N,White
+4893,Female,N,Hispanic/Latino
+4894,Female,N,Hispanic/Latino
+4895,Female,N,White
+4896,Female,Y,White
+4897,Female,N,White
+4898,Female,N,Asian
+4899,Female,N,White
+4900,Female,N,White
+4901,Female,N,Hispanic/Latino
+4902,Female,N,Black or African American
+4903,Male,N,White
+4904,Female,N,White
+4905,Female,N,White
+4906,Male,N,Asian
+4907,Female,N,Hispanic/Latino
+4908,Male,N,White
+4909,Male,N,White
+4910,Female,N,White
+4911,Female,N,Hispanic/Latino
+4912,Female,N,White
+4913,Male,N,White
+4914,Female,N,White
+4915,Male,N,White
+4916,Male,N,White
+4917,Male,N,White
+4918,Male,N,White
+4919,Female,N,Hispanic/Latino
+4920,Male,N,White
+4921,Female,N,White
+4922,Female,N,White
+4923,Female,N,Black or African American
+4924,Female,N,Hispanic/Latino
+4925,Male,N,White
